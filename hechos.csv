@@ -1,0 +1,697 @@
+,id,n_victimas,fecha,hora,hh,dirección normalizada,tipo_de_calle,comuna,pos x,pos y,victima,acusado
+0,2016-0001,1,2016-01-01,04:00:00,4.0,"piedra buena av. y fernandez de la cruz, f., gral. av.",avenida,8,-58.47533969,-34.68757022,moto,auto
+1,2016-0002,1,2016-01-02,01:15:00,1.0,"paz, gral. av. y de los corrales av.",gral paz,9,-58.50877521,-34.66977709,auto,pasajeros
+2,2016-0003,1,2016-01-03,07:00:00,7.0,entre rios av. 2034,avenida,1,-58.39040293,-34.63189362,moto,auto
+3,2016-0004,1,2016-01-10,00:00:00,0.0,"larrazabal av. y villegas, conrado, gral.",avenida,8,-58.46503904,-34.68092974,moto,
+4,2016-0005,1,2016-01-21,05:20:00,5.0,"san juan av. y saenz peña, luis, pres.",avenida,1,-58.38718297,-34.6224663,moto,pasajeros
+5,2016-0008,1,2016-01-24,18:30:00,18.0,27 de febrero av. y escalada av.,avenida,8,-58.44451316,-34.68475866,moto,objeto fijo
+6,2016-0009,1,2016-01-24,19:10:00,19.0,"nogoya y gonzalez, joaquin v.",calle,11,-58.50095869,-34.6082544,moto,auto
+7,2016-0010,1,2016-01-29,15:20:00,15.0,"paz, gral. av. y de los corrales av.",gral paz,9,-58.50877521,-34.66977709,moto,auto
+8,2016-0012,1,2016-02-08,01:20:00,1.0,"belgrano av. e irigoyen, bernardo de",avenida,1,-58.38048577,-34.61303893,moto,cargas
+9,2016-0013,1,2016-02-10,11:30:00,11.0,entre rios av. 1366,avenida,1,-58.39114932,-34.62477387,peaton,auto
+10,2016-0015,1,2016-02-14,05:14:00,5.0,"scalabrini ortiz, raul av. y vera",avenida,15,-58.4376002,-34.59912758,peaton,auto
+11,2016-0016,1,2016-02-14,22:00:00,22.0,"regimiento de patricios av. y quinquela martin, benito",avenida,4,-58.36882665,-34.64291993,moto,auto
+12,2016-0017,1,2016-02-15,16:54:00,16.0,"acosta, mariano y janer, ana maria",avenida,8,-58.44989671,-34.65970435,peaton,moto
+13,2016-0019,1,2016-02-17,09:30:00,9.0,"de la torre, lisandro y garcia grande de zequeira, severo",calle,9,-58.50990884,-34.65468721,peaton,pasajeros
+14,2016-0020,1,2016-02-17,16:00:00,16.0,suipacha 156,calle,1,-58.37952223,-34.60653282,peaton,auto
+15,2016-0021,1,2016-02-17,23:35:00,23.0,directorio av. y curapaligue,avenida,7,-58.45157703,-34.63063795,auto,auto
+16,2016-0022,1,2016-02-21,06:00:00,6.0,"9 de julio av. y alsina, adolfo",avenida,1,-58.38144696,-34.61079875,moto,auto
+17,2016-0025,1,2016-02-28,04:50:00,4.0,"paz, gral. av. y 27 de febrero av.",gral paz,8,-58.46244952,-34.70524971,auto,auto
+18,2016-0026,1,2016-02-28,07:30:00,7.0,holmberg y vedia,calle,12,-58.49216191,-34.54738649,auto,objeto fijo
+19,2016-0027,1,2016-02-28,09:35:00,9.0,"curapaligue av. y diaz, avelino",avenida,7,-58.44497874,-34.63852623,auto,auto
+20,2016-0028,1,2016-03-02,10:00:00,10.0,viamonte y 9 de julio av.,avenida,1,-58.38199706,-34.60028648,peaton,cargas
+21,2016-0029,1,2016-03-04,17:30:00,17.0,cabildo av. y deheza,avenida,12,-58.47378664,-34.54153077,peaton,pasajeros
+22,2016-0031,1,2016-03-08,12:30:00,12.0,"paz, gral. av. y roca, cnel. av.",gral paz,8,-58.47064556,-34.69843756,moto,pasajeros
+23,2016-0034,1,2016-03-12,12:30:00,12.0,"alcorta, amancio av. y bonavena, oscar natalio",avenida,4,-58.40623949,-34.65076549,peaton,pasajeros
+24,2016-0035,1,2016-03-13,06:00:00,6.0,corrientes av. y callao av.,avenida,3,-58.39228965,-34.60443527,moto,pasajeros
+25,2016-0036,1,2016-03-14,00:15:00,0.0,"herrera y valle, aristobulo del",calle,4,-58.37813396,-34.63668504,moto,pasajeros
+26,2016-0037,1,2016-03-19,11:00:00,11.0,lafuente av. y quirno,avenida,7,-58.46275892,-34.64358293,moto,moto
+27,2016-0038,1,2016-03-21,08:06:00,8.0,"paz, gral. av. y zuviria",gral paz,8,-58.49683458,-34.67892743,peaton,pasajeros
+28,2016-0039,1,2016-03-23,01:50:00,1.0,"mitre, bartolome y pueyrredon av.",avenida,3,-58.40603217,-34.6088396,moto,pasajeros
+29,2016-0041,2,2016-03-29,11:00:00,11.0,directorio av. y rivera indarte av.,avenida,7,-58.4607655,-34.63350444,moto,cargas
+30,2016-0043,1,2016-03-30,18:15:00,18.0,"dellepiane, luis, tte. gral. y murguiondo",avenida,8,-58.47832463,-34.67494416,peaton,cargas
+31,2016-0044,1,2016-03-31,19:40:00,19.0,"moreno, jose maria av. y balbastro",avenida,7,-58.43213235,-34.63693953,moto,multiple
+32,2016-0045,1,2016-04-11,10:25:00,10.0,"paz, gral. av. y del libertador av.",gral paz,13,-58.46743471,-34.53476874,moto,
+33,2016-0047,1,2016-04-15,05:30:00,5.0,lima 1483,calle,1,-58.38247061,-34.62571878,peaton,pasajeros
+34,2016-0048,1,2016-04-15,17:40:00,17.0,corrientes av. y dorrego av.,avenida,15,-58.44759966,-34.5917024,peaton,pasajeros
+35,2016-0049,1,2016-04-17,00:00:00,0.0,autopista 1 sur presidente arturo frondizi,autopista,4,-58.37714647568196,-34.63657525428238,,
+36,2016-0050,1,2016-04-19,09:50:00,9.0,"gordillo, timoteo y fernandez de la cruz, f., gral. av.",avenida,8,-58.47305463,-34.68550712,peaton,pasajeros
+37,2016-0051,1,2016-04-20,04:00:00,4.0,"alcorta, amancio av. y bonavena, oscar natalio",avenida,4,-58.40623949,-34.65076549,moto,cargas
+38,2016-0052,1,2016-04-20,20:00:00,20.0,,autopista,13,,,moto,
+39,2016-0053,1,2016-04-22,09:30:00,9.0,triunvirato av. y olazabal av.,avenida,12,-58.4842918,-34.57558053,peaton,pasajeros
+40,2016-0054,1,2016-04-23,21:00:00,21.0,"autopista dellepiane luis tte. gral. y paz, gral. av.",autopista,8,-58.48695354,-34.68795245,moto,moto
+41,2016-0055,1,2016-04-25,20:30:00,20.0,"castilla, ramon, mariscal y figueroa alcorta, pres. av.",avenida,14,-58.40021959,-34.57964781,peaton,cargas
+42,2016-0056,1,2016-04-26,04:45:00,4.0,"campos, luis m. av. 30",avenida,14,-58.42957885,-34.57660058,moto,objeto fijo
+43,2016-0058,1,2016-05-04,14:00:00,14.0,lima 1471,calle,1,-58.38247542,-34.62556293,peaton,moto
+44,2016-0059,1,2016-05-08,16:30:00,16.0,ciudadela y lima,calle,1,-58.38222219,-34.62728101,peaton,pasajeros
+45,2016-0064,1,2016-05-14,18:11:00,18.0,"justo, juan b. av. y carrasco av.",avenida,10,-58.49485242,-34.62953445,peaton,pasajeros
+46,2016-0065,1,2016-05-20,14:40:00,14.0,gaona av. y espinosa,avenida,6,-58.45227946,-34.61068024,peaton,auto
+47,2016-0067,1,2016-05-21,17:00:00,17.0,"de la torre, lisandro y saraza",avenida,8,-58.48455411,-34.6751276,moto,pasajeros
+48,2016-0068,1,2016-05-22,22:00:00,22.0,"figueroa alcorta, pres. av. y pueyrredon av.",avenida,2,-58.39056593,-34.58418569,moto,pasajeros
+49,2016-0069,1,2016-05-23,03:30:00,3.0,entre rios av. y filiberto,avenida,3,-58.39118948,-34.62704273,auto,cargas
+50,2016-0073,1,2016-06-11,15:00:00,15.0,"magariã‘os cervantes, a. 3900",calle,10,-58.49021952,-34.62025108,moto,cargas
+51,2016-0074,1,2016-06-12,06:40:00,6.0,"paz, gral. av. y scapino, rodolfo",gral paz,8,-58.49896559,-34.67732118,auto,auto
+52,2016-0075,1,2016-06-12,23:13:00,23.0,autopista dellepiane luis tte. gral. y miralla,autopista,8,-58.47461076,-34.66874679,peaton,auto
+53,2016-0076,1,2016-06-13,16:20:00,16.0,san martin av. y camarones,avenida,15,-58.46210891,-34.60356211,peaton,pasajeros
+54,2016-0077,1,2016-06-13,21:52:00,21.0,"peron, juan domingo, tte. general y alem, leandro n. av.",avenida,1,-58.3702777,-34.60536123,peaton,pasajeros
+55,2016-0078,1,2016-06-13,23:01:00,23.0,belgrano av. y jujuy av.,avenida,3,-58.40491455,-34.6146383,moto,moto
+56,2016-0079,1,2016-06-16,17:13:00,17.0,"del libertador av. y udaondo, guillermo av.",avenida,13,-58.45504154,-34.54864492,auto,auto
+57,2016-0080,1,2016-06-18,06:42:00,6.0,"paz, gral. av. y rivadavia av.",gral paz,9,-58.52927982,-34.63931752,auto,
+58,2016-0081,1,2016-06-22,07:42:00,7.0,"larralde, crisologo av. y machain",avenida,12,-58.4872106,-34.55904606,moto,auto
+59,2016-0082,1,2016-06-27,18:24:00,18.0,la plata av. 2384,avenida,4,-58.42273092,-34.64228803,peaton,auto
+60,2016-0083,1,2016-06-28,20:46:00,20.0,"alberdi, juan bautista av. y puan",avenida,6,-58.44788671,-34.62539009,peaton,moto
+61,2016-0084,1,2016-06-29,22:00:00,22.0,"pellegrini, carlos y tucuman",calle,1,-58.38110563,-34.60135531,peaton,pasajeros
+62,2016-0085,1,2016-06-29,22:00:00,22.0,"rabanal, francisco, intendente av. y erezcano",avenida,4,-58.42378834,-34.657341,moto,otro
+63,2016-0086,1,2016-06-30,16:10:00,16.0,"olivera av. y falcon, ramon l.,cnel.",avenida,10,-58.48727942,-34.63652467,peaton,pasajeros
+64,2016-0087,1,2016-07-02,00:10:00,0.0,autopista 1 sur presidente arturo frondizi y caseros av.,autopista,1,-58.37864583,-34.62907067,moto,objeto fijo
+65,2016-0088,1,2016-07-11,15:30:00,15.0,ceretti y nuã‘ez,calle,12,-58.5015175,-34.56767549,peaton,auto
+66,2016-0089,1,2016-07-14,06:40:00,6.0,"lugones, leopoldo av. y la pampa",autopista,13,-58.43233425,-34.55185825,peaton,auto
+67,2016-0090,1,2016-07-14,22:00:00,22.0,"salguero, jeronimo y rivadavia av.",avenida,5,-58.41971993,-34.6111224,peaton,pasajeros
+68,2016-0092,1,2016-07-15,11:00:00,11.0,"paz, gral. av. y del libertador av.",gral paz,13,-58.46743471,-34.53476874,moto,cargas
+69,2016-0093,1,2016-07-17,03:30:00,3.0,"alberdi, juan bautista av. y mitre, emilio",avenida,6,-58.44362126,-34.62301748,auto,auto
+70,2016-0095,1,2016-07-23,06:12:00,6.0,mercedes y mosconi general av.,avenida,11,-58.51713095,-34.59546519,moto,auto
+71,2016-0096,1,2016-07-25,07:00:00,7.0,autopista dellepiane luis tte. gral.,autopista,8,-58.47433193007387,-34.66684950051973,moto,cargas
+72,2016-0097,1,2016-07-26,18:45:00,18.0,solis y mexico,calle,1,-58.39038605,-34.6156281,peaton,auto
+73,2016-0098,1,2016-07-27,16:08:00,16.0,san juan av. y alberti,avenida,3,-58.40042405,-34.62356174,moto,cargas
+74,2016-0099,1,2016-07-29,16:00:00,16.0,"mosconi general av. y paz, gral. av.",gral paz,11,-58.52340614,-34.59798754,cargas,cargas
+75,2016-0100,1,2016-08-03,23:27:00,23.0,"paz, gral. av. y donado",gral paz,12,-58.49491054,-34.54795581,moto,objeto fijo
+76,2016-0101,1,2016-08-07,19:42:00,19.0,"paz, gral. av. y chavez, jorge",gral paz,9,-58.52932872,-34.65014993,,
+77,2016-0102,1,2016-08-10,23:37:00,23.0,"peron, eva av. y suarez, jose leon",avenida,9,-58.50011639,-34.67316502,moto,cargas
+78,2016-0104,1,2016-08-14,21:15:00,21.0,zinny y santiago de compostela av.,avenida,9,-58.46635001,-34.65624369,moto,pasajeros
+79,2016-0105,1,2016-08-17,00:05:00,0.0,"lacroze, federico av. y fraga",avenida,15,-58.45343236,-34.58435809,peaton,pasajeros
+80,2016-0106,1,2016-08-19,21:02:00,21.0,"pellegrini, carlos y del libertador av.",avenida,1,-58.38090932,-34.58927731,peaton,pasajeros
+81,2016-0107,1,2016-08-20,08:22:00,8.0,autopista 1 sur presidente arturo frondizi y don pedro de mendoza av.,autopista,4,-58.37157668,-34.65429986,moto,auto
+82,2016-0109,1,2016-08-24,05:45:00,5.0,autopista perito moreno y barragan,autopista,9,-58.52280139,-34.63659934,auto,objeto fijo
+83,2016-0110,1,2016-08-24,20:21:00,20.0,"alberdi, juan bautista av. y carhue",avenida,9,-58.51232237,-34.6590353,peaton,
+84,2016-0111,1,2016-08-25,09:30:00,9.0,lugones y la pampa,autopista,15,-58.47461905,-34.57663634,moto,cargas
+85,2016-0112,1,2016-08-27,04:40:00,4.0,autopista 25 de mayo y autopista 1 sur presidente arturo frondizi,autopista,1,-58.38268809,-34.62282019,moto,objeto fijo
+86,2016-0113,1,2016-08-27,16:45:00,16.0,"alberdi, juan bautista av. y guardia nacional",avenida,9,-58.49603546,-34.64564271,peaton,pasajeros
+87,2016-0114,1,2016-08-31,11:20:00,11.0,"salguero, jeronimo 1410",calle,14,-58.41848605,-34.59394733,bicicleta,cargas
+88,2016-0115,1,2016-09-02,11:50:00,11.0,arias y tronador,calle,12,-58.48935041,-34.54917673,,cargas
+89,2016-0116,1,2016-09-02,20:20:00,20.0,27 de febrero av. y escalada av.,avenida,8,-58.44451316,-34.68475866,moto,auto
+90,2016-0117,1,2016-09-03,15:30:00,15.0,del libertador av. y tagle,avenida,14,-58.39936478,-34.58271474,auto,auto
+91,2016-0118,1,2016-09-04,03:30:00,3.0,autopista 1 sur presidente arturo frondizi km. 2.9,autopista,1,-58.37936704,-34.62694503,auto,auto
+92,2016-0119,1,2016-09-04,06:40:00,6.0,"larralde, crisologo av. y triunvirato av.",avenida,12,-58.49659234,-34.56353635,,
+93,2016-0122,1,2016-09-13,07:10:00,7.0,"peron, eva av. 4233",avenida,9,-58.47256391,-34.65194557,bicicleta,pasajeros
+94,2016-0123,1,2016-09-14,09:00:00,9.0,"asamblea av. y bonorino, esteban, cnel. av.",avenida,7,-58.45130953,-34.64053676,moto,auto
+95,2016-0124,1,2016-09-16,15:24:00,15.0,rivadavia av. y rivera indarte av.,avenida,7,-58.46271207,-34.62884871,peaton,pasajeros
+96,2016-0125,1,2016-09-17,12:14:00,12.0,"autopista perito moreno y alberdi, juan bautista av.",autopista,10,-58.49020869,-34.64243791,moto,moto
+97,2016-0126,2,2016-09-18,22:45:00,22.0,irigoyen y tinogasta,calle,10,-58.52572109,-34.62125906,auto,cargas
+98,2016-0127,1,2016-09-24,10:25:00,10.0,"acosta, mariano y roca, cnel. av.",avenida,8,-58.44094791,-34.66677111,peaton,pasajeros
+99,2016-0128,1,2016-10-02,11:30:00,11.0,castro y pavon av.,avenida,5,-58.41914024,-34.6305389,peaton,pasajeros
+100,2016-0130,1,2016-10-04,12:30:00,12.0,autopista 1 sur presidente arturo frondizi y brasil,autopista,1,-58.37910942,-34.62764717,moto,cargas
+101,2016-0131,1,2016-10-09,19:13:00,19.0,mirave 3500,calle,4,-58.39871183,-34.64539318,peaton,auto
+102,2016-0132,1,2016-10-10,02:30:00,2.0,san juan av. y 24 de noviembre,avenida,3,-58.41036975,-34.62477021,auto,pasajeros
+103,2016-0133,1,2016-10-14,00:05:00,0.0,las heras general av. y sanchez de bustamante,avenida,14,-58.40204698,-34.5834269,moto,auto
+104,2016-0134,1,2016-10-23,05:00:00,5.0,piedra buena av. y 2 de abril de 1982,avenida,8,-58.48935287,-34.67648597,moto,objeto fijo
+105,2016-0135,1,2016-10-24,05:00:00,5.0,"figueroa alcorta, pres. av. y pinedo, int.",avenida,14,-58.42260225,-34.56403694,peaton,
+106,2016-0136,1,2016-10-25,00:00:00,0.0,,autopista,4,,,moto,cargas
+107,2016-0137,1,2016-10-25,00:39:00,0.0,san martin av. y ladines,avenida,11,-58.51537091,-34.59035925,moto,moto
+108,2016-0138,1,2016-10-27,20:30:00,20.0,cabildo av. y blanco encalada,avenida,13,-58.4590967,-34.55922742,bicicleta,cargas
+109,2016-0139,1,2016-10-28,23:00:00,23.0,"figueroa alcorta, pres. av. y dorrego av.",avenida,14,-58.42008769,-34.56539579,moto,moto
+110,2016-0140,1,2016-10-31,02:58:00,2.0,juramento av. y vuelta de obligado,avenida,13,-58.45566399,-34.56147293,pasajeros,pasajeros
+111,2016-0142,1,2016-11-05,23:30:00,23.0,"del libertador av. y ramos mejia, jose maria, dr. av.",avenida,1,-58.37533517,-34.59276462,moto,pasajeros
+112,2016-0143,1,2016-11-06,04:41:00,4.0,27 de febrero av. y escalada av.,avenida,8,-58.44451316,-34.68475866,moto,
+113,2016-0144,1,2016-11-07,12:10:00,12.0,"brown, alte. av. 984",avenida,4,-58.35975012,-34.63343907,peaton,pasajeros
+114,2016-0145,1,2016-11-07,20:56:00,20.0,del libertador av. y la pampa,avenida,13,-58.44523595,-34.55953855,moto,auto
+115,2016-0146,1,2016-11-09,20:00:00,20.0,pichincha av. y brasil,avenida,4,-58.39626094,-34.63036565,peaton,pasajeros
+116,2016-0147,1,2016-11-16,21:15:00,21.0,"independencia av. y cevallos, virrey",avenida,1,-58.38896772,-34.61799615,movil,pasajeros
+117,2016-0148,1,2016-11-16,22:20:00,22.0,garmendia av. 4895,avenida,15,-58.46536113,-34.59484504,moto,moto
+118,2016-0150,1,2016-11-18,18:20:00,18.0,"alcorta, amancio av. y taborda, diogenes",avenida,4,-58.40879146,-34.65273216,cargas,cargas
+119,2016-0151,1,2016-11-18,20:35:00,20.0,,calle,0,,,peaton,
+120,2016-0152,1,2016-11-23,21:10:00,21.0,"moreno, perito av. y zuviria",avenida,7,-58.46451841,-34.64991946,moto,auto
+121,2016-0153,1,2016-11-25,15:42:00,15.0,araoz y cordoba av.,avenida,15,-58.4291709,-34.59485488,peaton,moto
+122,2016-0154,1,2016-11-26,14:14:00,14.0,"paz, gral. av. 15200",gral paz,8,-58.49007772,-34.68251141,moto,moto
+123,2016-0155,1,2016-11-26,16:50:00,16.0,madero 900,calle,10,-58.52756365,-34.62772274,peaton,auto
+124,2016-0156,1,2016-11-26,19:40:00,19.0,independencia av. y dean funes,avenida,3,-58.40638983,-34.61943202,moto,pasajeros
+125,2016-0157,1,2016-12-03,06:40:00,6.0,"justo, juan b. av. 5645",avenida,11,-58.47576807,-34.61740997,moto,moto
+126,2016-0159,1,2016-12-04,07:21:00,7.0,27 de febrero av. y escalada av.,avenida,8,-58.44451316,-34.68475866,auto,
+127,2016-0160,1,2016-12-06,05:30:00,5.0,autopista perito moreno (altura velez sarsfield),autopista,9,-58.51927194,-34.63635787,cargas,objeto fijo
+128,2016-0161,1,2016-12-06,07:22:00,7.0,santa fe av. y godoy cruz,avenida,14,-58.42525456,-34.57866344,peaton,pasajeros
+129,2016-0162,1,2016-12-07,05:00:00,5.0,"lacroze, federico av. y forest av.",avenida,15,-58.45396573,-34.58518167,peaton,auto
+130,2016-0163,1,2016-12-10,07:30:00,7.0,"paz, gral. av. y mosconi general av.",gral paz,11,-58.52340614,-34.59798754,moto,auto
+131,2016-0164,1,2016-12-11,06:16:00,6.0,"la plata av. y pomar, gregorio tte. cnel.",avenida,4,-58.42323628,-34.64119105,auto,auto
+132,2016-0165,1,2016-12-12,08:25:00,8.0,"garcia, martin av. 300",avenida,4,-58.36926144,-34.62841919,bicicleta,pasajeros
+133,2016-0168,1,2016-12-13,10:40:00,10.0,"la plata av. y pomar, gregorio tte. cnel.",avenida,4,-58.42323628,-34.64119105,moto,auto
+134,2016-0169,1,2016-12-15,15:30:00,15.0,"nuã‘ez y balbin, ricardo, dr. av.",avenida,12,-58.47935434,-34.55676497,moto,pasajeros
+135,2016-0170,1,2016-12-19,17:10:00,17.0,"paz, gral. av. 4500",gral paz,12,-58.50598256,-34.5637998,moto,auto
+136,2016-0171,1,2016-12-25,19:00:00,19.0,"huergo, ing. av. y autopista 25 de mayo",autopista,1,-58.36607137,-34.62150748,moto,moto
+137,2016-0172,1,2016-12-26,08:00:00,8.0,"garay, juan de av. y castro",avenida,5,-58.41918902,-34.63174259,moto,cargas
+138,2016-0173,1,2016-12-26,19:52:00,19.0,directorio av. y san pedrito av.,avenida,7,-58.46749188,-34.63551751,moto,cargas
+139,2016-0174,1,2016-12-27,00:00:00,0.0,autopista 25 de mayo,autopista,0,,,,
+140,2016-0175,1,2016-12-27,08:15:00,8.0,"falcon, ramon l.,cnel. y membrillar",calle,7,-58.46064174,-34.62960517,peaton,bicicleta
+141,2016-0176,1,2016-12-28,01:41:00,1.0,belgrano av. y paseo colon av.,avenida,1,-58.36956186,-34.61232875,moto,pasajeros
+142,2016-0177,1,2016-12-29,04:00:00,4.0,arenales 3319,calle,14,-58.40966671,-34.58788235,peaton,auto
+143,2016-0178,1,2016-12-30,16:18:00,16.0,republica bolivariana de venezuela y saavedra,calle,3,-58.40288226,-34.61544091,peaton,multiple
+144,2017-0001,1,2017-01-02,01:00:00,1.0,"justo, juan b. av. y achupallas",avenida,11,-58.4659423,-34.61028571,moto,cargas
+145,2017-0003,1,2017-01-05,03:10:00,3.0,olavarria y velez sarsfield av.,avenida,4,-58.38957669,-34.64410277,cargas,cargas
+146,2017-0007,1,2017-01-11,17:00:00,17.0,lima y mexico,calle,1,-58.3816166,-34.61529543,peaton,multiple
+147,2017-0008,1,2017-01-16,00:40:00,0.0,"cabrera, jose a. y bonpland",calle,14,-58.43917004,-34.58494351,moto,pasajeros
+148,2017-0009,1,2017-01-16,13:56:00,13.0,autopista 25 de mayo y boedo av.,autopista,5,-58.41595919,-34.62743346,moto,cargas
+149,2017-0010,1,2017-01-16,16:30:00,16.0,directorio av. y riglos,avenida,6,-58.4356488,-34.62828656,moto,auto
+150,2017-0011,1,2017-01-22,02:30:00,2.0,"paz, gral. av. y balbin, ricardo, dr. av.",gral paz,12,-58.5007381,-34.5497951,moto,objeto fijo
+151,2017-0012,1,2017-01-24,14:00:00,14.0,"traful y taborda, diogenes",calle,4,-58.40969005,-34.6505529,moto,cargas
+152,2017-0013,1,2017-01-27,07:00:00,7.0,"iriarte, gral. av. 3055",avenida,4,-58.38972622,-34.65098981,peaton,cargas
+153,2017-0014,1,2017-01-28,08:27:34,8.0,donado y arias,avenida,12,-58.49185972,-34.55046754,moto,multiple
+154,2017-0015,1,2017-02-02,15:18:03,15.0,cordoba av. y callao av.,avenida,2,-58.39293417,-34.59963642,peaton,auto
+155,2017-0016,1,2017-02-03,05:12:21,5.0,autopista 25 de mayo km. 8.3,autopista,1,-58.38099494,-34.62288231,moto,cargas
+156,2017-0017,1,2017-02-06,08:00:00,8.0,"justo, juan b. av. y paraguay",avenida,14,-58.429012,-34.58095431,moto,auto
+157,2017-0018,1,2017-02-09,07:00:00,7.0,"paz, gral. av. y de los corrales av.",gral paz,9,-58.50877521,-34.66977709,moto,auto
+158,2017-0021,1,2017-02-18,05:30:00,5.0,sarmiento y libertad,calle,1,-58.38362373,-34.60509972,moto,pasajeros
+159,2017-0024,1,2017-02-23,20:50:00,20.0,rivadavia av. 7121,avenida,7,-58.46589308,-34.62955795,peaton,pasajeros
+160,2017-0025,1,2017-02-24,17:05:00,17.0,"fernandez de la cruz, f., gral. av. y rivera indarte av.",avenida,7,-58.43614426,-34.6542464,moto,
+161,2017-0026,2,2017-02-26,05:15:00,5.0,"moreno, perito av. y fournier",avenida,4,-58.41842777,-34.64979057,auto,objeto fijo
+162,2017-0027,1,2017-02-26,21:57:00,21.0,caseros av. 1429,avenida,1,-58.38332245,-34.6319325,peaton,auto
+163,2017-0028,1,2017-02-28,09:20:00,9.0,gaona av. y fragata pres. sarmiento,avenida,6,-58.45475488,-34.61196327,peaton,auto
+164,2017-0029,1,2017-03-07,02:15:00,2.0,mozart y tandil,calle,9,-58.48501341,-34.64742455,,auto
+165,2017-0030,1,2017-03-07,08:00:00,8.0,mozart y autopista dellepiane luis tte. gral.,avenida,9,-58.47010988,-34.65872088,auto,pasajeros
+166,2017-0031,1,2017-03-11,01:30:00,1.0,24 de noviembre y pavon,calle,3,-58.4099756,-34.62873635,auto,objeto fijo
+167,2017-0032,1,2017-03-12,05:00:00,5.0,"paz, gral. av. y los cedros",gral paz,8,-58.48892175,-34.68359163,auto,auto
+168,2017-0033,1,2017-03-12,07:30:00,7.0,"paz, gral. av. y gutierrez, ricardo",gral paz,11,-58.52466448,-34.60325478,auto,auto
+169,2017-0034,1,2017-03-13,07:50:00,7.0,godoy cruz 2651,calle,14,-58.42554218,-34.57929036,peaton,auto
+170,2017-0035,3,2017-03-23,05:00:00,5.0,"achaval rodriguez, t., dr. av. y villaflor, azucena",avenida,1,-58.35881506,-34.61113641,auto,objeto fijo
+171,2017-0036,2,2017-03-29,18:00:00,18.0,"paz, gral. av. y campana",gral paz,12,-58.51452347,-34.58159762,moto,pasajeros
+172,2017-0037,1,2017-03-31,03:00:00,3.0,"independencia av. y cevallos, virrey",avenida,1,-58.38896772,-34.61799615,moto,cargas
+173,2017-0038,1,2017-04-01,19:00:00,19.0,castaã‘ares av. y lautaro,avenida,7,-58.44516857,-34.64363363,moto,auto
+174,2017-0040,1,2017-04-03,09:40:00,9.0,"guiraldes, int. 2699",avenida,13,-58.43834197,-34.54560369,auto,multiple
+175,2017-0041,1,2017-04-03,23:15:00,23.0,"fernandez moreno, baldomero 2186",calle,7,-58.45485084,-34.63531854,moto,auto
+176,2017-0042,1,2017-04-10,09:00:00,9.0,"lugones, leopoldo av.",gral paz,14,,,moto,cargas
+177,2017-0045,1,2017-04-14,06:15:00,6.0,nogoya 5940,calle,10,-58.52449285,-34.62454175,moto,objeto fijo
+178,2017-0047,1,2017-04-23,06:30:00,6.0,argentina av. y corvalan,avenida,8,-58.46713742,-34.6719879,moto,auto
+179,2017-0049,1,2017-04-27,18:16:00,18.0,"fernandez de la cruz, f., gral. av. y varela av.",avenida,8,-58.43850413,-34.65554754,peaton,pasajeros
+180,2017-0050,2,2017-04-28,11:08:08,11.0,,autopista,9,,,moto,cargas
+181,2017-0051,1,2017-05-01,03:47:47,3.0,,autopista,7,,,auto,auto
+182,2017-0052,1,2017-05-05,03:40:00,3.0,"paz, gral. av. y goleta santa cruz",gral paz,8,-58.49413799,-34.68095739,peaton,cargas
+183,2017-0053,1,2017-05-05,20:16:22,20.0,vieytes y villarino,calle,4,-58.37547846,-34.65326075,moto,cargas
+184,2017-0054,1,2017-05-07,21:00:00,21.0,"de los constituyentes av. y moran, pedro",avenida,15,-58.48680218,-34.58689719,moto,auto
+185,2017-0055,1,2017-05-09,08:30:00,8.0,de los constituyentes av. 4900,avenida,12,-58.49563989,-34.57962262,auto,auto
+186,2017-0058,1,2017-05-09,23:10:00,23.0,cordoba av. y libertad,avenida,1,-58.38403232,-34.5991594,peaton,moto
+187,2017-0059,1,2017-05-11,09:24:00,9.0,brasil y lima,calle,1,-58.38223382,-34.62693865,peaton,pasajeros
+188,2017-0060,1,2017-05-13,07:20:00,7.0,"escalada av. y fernandez de la cruz, f., gral. av.",avenida,8,-58.45966521,-34.67323292,moto,objeto fijo
+189,2017-0061,1,2017-05-15,13:29:30,13.0,paraguay y callao av.,avenida,2,-58.39303911,-34.59871111,peaton,moto
+190,2017-0062,1,2017-05-15,16:00:00,16.0,"justo, juan b. av. y san blas",avenida,10,-58.51262106,-34.63395999,moto,cargas
+191,2017-0063,1,2017-05-17,10:13:00,10.0,chile y 9 de julio av.,avenida,1,-58.38118367,-34.61646839,peaton,pasajeros
+192,2017-0064,1,2017-05-20,05:00:00,5.0,"maipu y peron, juan domingo, tte. general",calle,1,-58.37653284,-34.60582475,cargas,auto
+193,2017-0065,1,2017-05-22,16:00:00,16.0,suarez av. y herrera,avenida,4,-58.37709334,-34.64035082,bicicleta,cargas
+194,2017-0066,1,2017-05-22,18:10:00,18.0,san martin av. y fragata pres. sarmiento,avenida,15,-58.46002142,-34.60409469,peaton,pasajeros
+195,2017-0067,1,2017-05-23,02:45:00,2.0,"directorio av. y moreno, jose maria av.",avenida,6,-58.4338197,-34.62801894,moto,cargas
+196,2017-0068,1,2017-05-27,19:50:00,19.0,"rabanal, francisco, intendente av. 2950",avenida,8,-58.43580656,-34.66437532,moto,objeto fijo
+197,2017-0069,1,2017-05-24,14:15:00,14.0,"paz, gral. av. y schmidl, ulrico",gral paz,9,-58.52173071,-34.65997463,moto,
+198,2017-0070,1,2017-05-30,13:20:00,13.0,nueva york 3696,calle,11,-58.50791763,-34.59804273,peaton,auto
+199,2017-0072,1,2017-06-03,23:20:00,23.0,de los constituyentes av. y vallejos,avenida,12,-58.49175088,-34.58226957,auto,auto
+200,2017-0073,1,2017-06-04,09:00:00,9.0,corrientes av. y ecuador,avenida,3,-58.40781467,-34.60425669,moto,auto
+201,2017-0074,1,2017-06-04,12:50:00,12.0,casco 133,calle,9,-58.52567073,-34.63787791,,
+202,2017-0075,1,2017-06-12,22:38:00,22.0,de mayo av. y 9 de julio av.,avenida,1,-58.381542,-34.60906385,peaton,moto
+203,2017-0076,1,2017-06-13,14:50:00,14.0,"castillo, ramon s., pres. av. y calle 12 (no oficial)",avenida,2,-58.38526125,-34.5780581,peaton,cargas
+204,2017-0077,1,2017-06-17,23:45:00,23.0,fray justo santamaria de oro 1930,calle,14,-58.42934104,-34.58451712,moto,cargas
+205,2017-0079,1,2017-06-19,16:26:00,16.0,mexico y dean funes,calle,3,-58.40657493,-34.61781124,moto,cargas
+206,2017-0080,1,2017-06-22,10:15:00,10.0,"alberdi, juan bautista av. y escalada av.",avenida,9,-58.49525314,-34.64487785,peaton,cargas
+207,2017-0082,1,2017-06-25,22:40:00,22.0,entre rios av. y brasil,avenida,4,-58.39092851,-34.62932696,peaton,auto
+208,2017-0083,1,2017-07-04,00:25:00,0.0,"alberdi, juan bautista av. y guardia nacional",avenida,9,-58.49603546,-34.64564271,moto,cargas
+209,2017-0084,1,2017-07-05,12:49:00,12.0,del libertador av. y rodriguez peã‘a,avenida,2,-58.38502878,-34.58703485,peaton,pasajeros
+210,2017-0085,1,2017-07-07,14:15:00,14.0,"tacuari y garcia, martin av.",avenida,4,-58.37261143,-34.63150425,peaton,pasajeros
+211,2017-0086,1,2017-07-09,07:30:00,7.0,rivadavia av. y murguiondo,avenida,9,-58.51876802,-34.63905965,peaton,moto
+212,2017-0087,1,2017-07-10,10:45:00,10.0,24 de noviembre 390,calle,3,-58.41095567,-34.61516101,peaton,auto
+213,2017-0088,1,2017-07-10,22:30:00,22.0,paseo colon av. y brasil av.,avenida,1,-58.36797542,-34.62519403,peaton,pasajeros
+214,2017-0089,1,2017-07-13,12:05:00,12.0,"leguizamon, martiniano 901",calle,9,-58.51514709,-34.64787051,,auto
+215,2017-0090,1,2017-07-15,05:15:00,5.0,"chivilcoy av. y paz, gral. av.",gral paz,11,-58.51925642,-34.59171721,peaton,auto
+216,2017-0091,1,2017-07-15,13:00:00,13.0,"superi y paz, gral. av.",gral paz,12,-58.48671535,-34.54321216,moto,
+217,2017-0092,1,2017-07-24,22:16:01,22.0,autopista 25 de mayo y autopista 1 sur presidente arturo frondizi,autopista,1,-58.38268809,-34.62282019,peaton,auto
+218,2017-0093,1,2017-07-25,16:48:40,16.0,"lugones, leopoldo av. y puente distribuidor scalabrini ortiz",autopista,13,-58.43633522,-34.54966288,peaton,auto
+219,2017-0094,1,2017-07-27,08:50:00,8.0,"hugo, victor 2639",calle,10,-58.52640838,-34.61765855,bicicleta,cargas
+220,2017-0095,1,2017-08-06,08:00:00,8.0,"cordoba av. y salguero, jeronimo",avenida,14,-58.41894306,-34.59778875,moto,auto
+221,2017-0096,1,2017-08-07,19:50:00,19.0,cabildo av. y nuã‘ez,avenida,13,-58.46756026,-34.54972741,peaton,pasajeros
+222,2017-0098,1,2017-08-08,12:10:00,12.0,"bonifacio, jose 2114",calle,7,-58.45715752,-34.63132912,peaton,auto
+223,2017-0099,1,2017-08-17,19:45:00,19.0,"figueroa alcorta, pres. av. 5400",avenida,14,-58.42406784,-34.56213916,bicicleta,auto
+224,2017-0100,1,2017-08-21,07:45:00,7.0,republica bolivariana de venezuela 2135,calle,3,-58.3967447,-34.61512051,moto,objeto fijo
+225,2017-0101,1,2017-08-23,10:00:00,10.0,"lacroze, federico av. y zapata",avenida,13,-58.44537508,-34.57084818,peaton,multiple
+226,2017-0102,1,2017-08-24,01:10:00,1.0,"iriarte, gral. av. y zavaleta",avenida,4,-58.40056767,-34.6510708,peaton,cargas
+227,2017-0104,1,2017-08-25,09:00:00,9.0,9 de julio av. y estados unidos,avenida,1,-58.38109568,-34.61853244,peaton,cargas
+228,2017-0106,1,2017-08-31,19:50:00,19.0,fray justo santamaria de oro y guemes,calle,14,-58.42533612,-34.58035258,peaton,pasajeros
+229,2017-0107,1,2017-09-01,11:30:00,11.0,del libertador av. y jaramillo,avenida,13,-58.46062311,-34.54395182,moto,cargas
+230,2017-0108,2,2017-09-02,04:53:08,4.0,"paz, gral. av. y machain",gral paz,12,-58.49491054,-34.54795581,objeto fijo,auto
+231,2017-0109,1,2017-09-04,21:00:00,21.0,directorio av. y portela,avenida,7,-58.47130269,-34.63665402,moto,auto
+232,2017-0110,1,2017-09-06,14:15:00,14.0,"lavalle y alem, leandro n. av.",avenida,1,-58.370488,-34.60189492,peaton,pasajeros
+233,2017-0111,1,2017-09-07,18:23:37,18.0,uspallata y pirovano,calle,4,-58.42023854,-34.6423411,peaton,cargas
+234,2017-0112,2,2017-09-10,09:32:17,9.0,autopista 25 de mayo y varela av.,autopista,7,-58.45807401,-34.6399743,auto,objeto fijo
+235,2017-0113,1,2017-09-11,06:30:00,6.0,santa fe av. y maipu,avenida,1,-58.37697717,-34.59573848,peaton,pasajeros
+236,2017-0114,1,2017-09-15,02:30:00,2.0,alvear av. y del libertador av.,avenida,2,-58.3910058,-34.5849866,auto,objeto fijo
+237,2017-0115,1,2017-09-19,18:52:33,18.0,pavon av. y treinta y tres orientales,avenida,5,-58.42182126,-34.63089661,moto,bicicleta
+238,2017-0116,1,2017-09-20,22:24:00,22.0,"paz, gral. av. 5750",gral paz,12,-58.51389422,-34.58075791,moto,objeto fijo
+239,2017-0118,1,2017-09-22,07:02:09,7.0,"vieytes y cruz, osvaldo av.",avenida,4,-58.37585415,-34.65232158,moto,auto
+240,2017-0120,1,2017-10-02,15:55:33,15.0,autopista dellepiane luis tte. gral. y escalada av.,autopista,9,-58.47297505,-34.66245085,moto,cargas
+241,2017-0123,1,2017-10-10,01:05:38,1.0,albariã‘o y argentina av.,avenida,8,-58.46855503,-34.67216349,peaton,auto
+242,2017-0124,1,2017-10-12,14:40:28,14.0,"ramirez de velasco, juan 1211",calle,15,-58.44254033,-34.59185043,moto,pasajeros
+243,2017-0125,1,2017-10-13,06:12:20,6.0,"fernandez de la cruz, f., gral. av. y larraya",avenida,8,-58.46622247,-34.67926929,moto,objeto fijo
+244,2017-0126,2,2017-10-14,06:15:00,6.0,riestra av. y caã‘ada de gomez,avenida,8,-58.48003734,-34.68148508,auto,objeto fijo
+245,2017-0127,1,2017-10-16,07:45:00,7.0,gallo y cordoba av.,avenida,2,-58.41192137,-34.59800248,moto,moto
+246,2017-0128,1,2017-10-17,12:30:00,12.0,"aranguren, juan f., dr. 611",calle,6,-58.44034689,-34.61349731,peaton,pasajeros
+247,2017-0129,1,2017-10-26,19:15:15,19.0,autopista perito moreno y autopista 25 de mayo,autopista,9,-58.47155277,-34.64925746,moto,pasajeros
+248,2017-0130,1,2017-10-27,05:30:00,5.0,chorroarin y san martin av.,avenida,15,-58.47883099,-34.59967065,auto,cargas
+249,2017-0132,1,2017-10-30,14:00:00,14.0,"cosquin y roca, cnel. av.",avenida,8,-58.46552171,-34.6937413,moto,pasajeros
+250,2017-0134,1,2017-11-06,18:00:00,18.0,"roca, cnel. av. 3555",avenida,8,-58.4423972,-34.66777987,peaton,pasajeros
+251,2017-0135,1,2017-11-07,12:14:10,12.0,warnes av. y punta arenas,avenida,15,-58.47032551,-34.59626814,moto,cargas
+252,2017-0136,1,2017-11-16,08:43:00,8.0,"barco centenera del y rabanal, francisco, intendente av.",avenida,4,-58.41827843,-34.65522746,peaton,pasajeros
+253,2017-0137,1,2017-11-17,11:45:00,11.0,mosconi general av. y san nicolas,avenida,11,-58.51280715,-34.59279388,peaton,cargas
+254,2017-0138,1,2017-11-19,10:30:00,10.0,"lafuente av. y peron, eva av.",avenida,7,-58.46258582,-34.64385704,moto,objeto fijo
+255,2017-0139,1,2017-11-19,22:30:00,22.0,"roca, cnel. av. y escalada av.",avenida,8,-58.45064148,-34.68003614,auto,objeto fijo
+256,2017-0140,1,2017-11-19,23:22:17,23.0,autopista 1 sur presidente arturo frondizi,autopista,4,,,moto,pasajeros
+257,2017-0141,1,2017-11-23,19:45:00,19.0,"la plata av. y goyena, pedro av.",avenida,6,-58.42717783,-34.62513374,peaton,pasajeros
+258,2017-0143,1,2017-11-25,21:45:00,21.0,"trelles, manuel r. y diaz, cesar, gral.",calle,11,-58.46442001,-34.60724519,auto,pasajeros
+259,2017-0144,1,2017-11-26,06:45:00,6.0,"roca, cnel. av. y paz, gral. av.",gral paz,8,-58.47064556,-34.69843756,auto,objeto fijo
+260,2017-0145,1,2017-11-26,17:05:00,17.0,maza y don bosco,calle,5,-58.41677733,-34.61223119,moto,auto
+261,2017-0147,1,2017-11-28,11:15:00,11.0,"paz, gral. av. y peron, eva av.",gral paz,9,-58.5025179,-34.67450313,moto,auto
+262,2017-0148,1,2017-11-29,10:45:00,10.0,san juan av. y la rioja,avenida,3,-58.40708125,-34.62438894,peaton,pasajeros
+263,2017-0149,1,2017-11-30,12:20:00,12.0,paseo colon av. y mexico,avenida,1,-58.36947198,-34.61477051,peaton,pasajeros
+264,2017-0150,1,2017-12-04,01:15:00,1.0,rivadavia av. y miralla,avenida,9,-58.51140889,-34.63934531,peaton,auto
+265,2017-0151,1,2017-12-04,02:15:00,2.0,vieytes y lujan,calle,4,-58.37460912,-34.65559133,peaton,pasajeros
+266,2017-0152,1,2017-12-06,17:30:00,17.0,cachi y traful,calle,4,-58.41146277,-34.65073916,bicicleta,pasajeros
+267,2017-0153,2,2017-12-11,02:00:00,2.0,rosario y la plata av.,avenida,6,-58.42855267,-34.61829385,moto,pasajeros
+268,2017-0154,1,2017-12-11,09:15:00,9.0,entre rios av. y caseros av.,avenida,4,-58.39035581,-34.63412287,peaton,pasajeros
+269,2017-0155,1,2017-12-12,21:25:41,21.0,rivadavia av. 6350,avenida,7,-58.45593915,-34.62656868,,moto
+270,2017-0157,1,2017-12-17,09:02:00,9.0,"paz, gral. av. y humaita",gral paz,9,-58.52866211,-34.64597065,auto,pasajeros
+271,2017-0158,1,2017-12-18,21:30:00,21.0,"gualeguaychu y paz, gral. av.",gral paz,11,-58.52037476,-34.59407024,moto,auto
+272,2017-0159,1,2017-12-20,04:31:27,4.0,"independencia av. y cevallos, virrey",avenida,1,-58.38896772,-34.61799615,moto,auto
+273,2017-0160,1,2017-12-22,13:15:00,13.0,nazca av. 365,avenida,7,-58.47074114,-34.62771756,peaton,moto
+274,2017-0161,1,2017-12-26,15:30:00,15.0,"peron, eva av. 5249",avenida,9,-58.48200819,-34.65969965,peaton,auto
+275,2018-0001,1,2018-01-01,22:50:00,22.0,san juan av. y rincon,avenida,3,-58.39536773,-34.62297346,peaton,moto
+276,2018-0002,1,2018-01-03,16:40:00,16.0,peru 937,calle,1,-58.37456088,-34.61895467,bicicleta,pasajeros
+277,2018-0003,1,2018-01-05,10:12:00,10.0,"pueyrredon, honorio, dr. av. y galicia",avenida,15,-58.44860217,-34.60395657,peaton,multiple
+278,2018-0004,1,2018-01-09,09:40:00,9.0,del libertador av. y manzanares,avenida,13,-58.46129513,-34.54332766,moto,multiple
+279,2018-0005,1,2018-01-09,22:30:00,22.0,paseo colon av. 1019,avenida,1,-58.36907201,-34.61953517,peaton,pasajeros
+280,2018-0006,1,2018-01-10,21:15:00,21.0,valle y barco centenera del,calle,6,-58.44062219,-34.62499107,bicicleta,pasajeros
+281,2018-0007,1,2018-01-11,02:30:00,2.0,autopista perito moreno km. 0.6,autopista,9,-58.52502765,-34.63601265,auto,auto
+282,2018-0008,1,2018-01-12,17:50:00,17.0,"huergo, ing. av. e independencia av.",avenida,1,-58.36659655,-34.61687778,moto,cargas
+283,2018-0009,1,2018-01-14,02:00:00,2.0,"pilcomayo y brown, alte. av.",avenida,4,-58.36737389,-34.62763661,moto,moto
+284,2018-0010,1,2018-01-18,05:10:00,5.0,"cervantes y belaustegui, luis, dr.",calle,10,-58.49807953,-34.63038658,moto,cargas
+285,2018-0011,1,2018-01-19,10:30:00,10.0,"callao av. y lopez, vicente",avenida,2,-58.39092703,-34.59088447,peaton,pasajeros
+286,2018-0012,1,2018-01-26,13:30:00,13.0,"oliden y chilavert, martiniano, coronel",calle,8,-58.46912006,-34.68049201,moto,pasajeros
+287,2018-0013,1,2018-01-28,08:15:00,8.0,congreso av. y galvan,avenida,12,-58.48661286,-34.56786129,moto,auto
+288,2018-0014,1,2018-01-31,20:00:00,20.0,"moreno, perito av. y rivera indarte av.",avenida,7,-58.44074927,-34.65080597,peaton,moto
+289,2018-0015,2,2018-02-06,01:00:00,1.0,australia av. 2800,avenida,4,-58.38636298,-34.64684275,moto,pasajeros
+290,2018-0016,1,2018-02-15,10:15:00,10.0,"del libertador av. y ramos mejia, jose maria, dr. av.",avenida,1,-58.37533517,-34.59276462,moto,cargas
+291,2018-0017,1,2018-02-17,04:15:00,4.0,san pedrito av. y rivadavia av.,avenida,7,-58.46963952,-34.63070603,peaton,auto
+292,2018-0018,1,2018-02-17,07:15:00,7.0,"isabel la catolica y salvadores, cnel.",calle,4,-58.37207554,-34.64543658,moto,cargas
+293,2018-0019,1,2018-02-17,12:30:00,12.0,las heras general av. y callao av.,avenida,2,-58.39189441,-34.59176378,peaton,pasajeros
+294,2018-0020,1,2018-02-19,22:00:00,22.0,"fernandez de la cruz f., gral. av. y autopista presidente hector j. campora",autopista,8,-58.45012957,-34.66518343,moto,cargas
+295,2018-0021,1,2018-02-22,10:45:00,10.0,"alcorta, amancio av. y zavaleta",avenida,4,-58.40184094,-34.64546845,peaton,pasajeros
+296,2018-0022,1,2018-02-24,00:00:00,0.0,"montes de oca, manuel av. y olavarria",avenida,4,-58.37441153,-34.63966783,moto,cargas
+297,2018-0023,1,2018-02-24,06:00:00,6.0,barco centenera del y rosario,calle,6,-58.44110156,-34.62082399,moto,auto
+298,2018-0024,1,2018-02-28,23:00:00,23.0,alvarez thomas av. y donado,avenida,15,-58.47087351,-34.57827342,peaton,cargas
+299,2018-0025,1,2018-03-04,22:30:00,22.0,avellaneda av. y boyaca av.,avenida,7,-58.4596221,-34.6224514,peaton,auto
+300,2018-0026,2,2018-03-09,04:45:00,4.0,"rabanal, francisco, intendente av. y saenz av.",avenida,4,-58.41657793,-34.65476216,movil,cargas
+301,2018-0027,1,2018-03-11,23:00:00,23.0,castro y rondeau,calle,5,-58.41911301,-34.63722107,peaton,moto
+302,2018-0028,1,2018-03-13,15:45:00,15.0,"bilbao, francisco av. y azul",avenida,9,-58.47120586,-34.64251042,peaton,cargas
+303,2018-0029,1,2018-03-15,18:00:00,18.0,nazca av. y gaona av.,avenida,11,-58.47418944,-34.62049672,moto,auto
+304,2018-0030,1,2018-03-20,01:30:00,1.0,plaza y alvarez thomas av.,avenida,15,-58.46720441,-34.57905579,moto,moto
+305,2018-0031,1,2018-03-28,10:15:00,10.0,"gaona av. y artigas, jose gervasio, gral.",avenida,11,-58.46909362,-34.6177971,moto,cargas
+306,2018-0032,1,2018-04-02,13:00:00,13.0,cabildo av. y aguilar,avenida,13,-58.44704343,-34.5688864,peaton,pasajeros
+307,2018-0033,1,2018-04-07,07:30:00,7.0,camarones y lope de vega av.,avenida,10,-58.50535541,-34.62902048,moto,cargas
+308,2018-0034,1,2018-04-11,18:15:00,18.0,santa fe av. 2320,avenida,2,-58.40021675,-34.59522198,peaton,pasajeros
+309,2018-0035,1,2018-04-12,16:45:00,16.0,rivadavia av. 6950,avenida,7,-58.46325991,-34.62919627,peaton,pasajeros
+310,2018-0036,1,2018-04-13,23:15:00,23.0,san martin av. y argerich,avenida,15,-58.49471482,-34.59694755,moto,auto
+311,2018-0037,1,2018-04-18,18:45:00,18.0,"cordoba av. y uriburu jose e., pres.",avenida,2,-58.3987261,-34.59975962,peaton,cargas
+312,2018-0038,2,2018-04-20,17:10:00,17.0,rivadavia av. 1571,avenida,1,-58.38872177,-34.60885045,peaton,auto
+313,2018-0039,1,2018-04-21,22:15:00,22.0,,autopista,14,,,peaton,auto
+314,2018-0040,1,2018-04-27,11:00:00,11.0,"freire, ramon, cap. gral. y olaguer y feliu, virrey",calle,13,-58.45686132,-34.57305993,peaton,cargas
+315,2018-0041,1,2018-04-27,13:30:00,13.0,"la plata av. y fernandez de la cruz, f., gral. av.",avenida,4,-58.42281627,-34.64282424,peaton,pasajeros
+316,2018-0042,1,2018-04-27,18:43:00,18.0,brandsen y perdriel,calle,4,-58.38666024,-34.63953396,moto,cargas
+317,2018-0043,1,2018-04-28,06:30:00,6.0,"vilardebo, teodoro y alvarez jonte av.",avenida,11,-58.49122843,-34.61207587,moto,auto
+318,2018-0044,1,2018-04-28,09:00:00,9.0,alberti e independencia av.,avenida,3,-58.40098306,-34.61866627,peaton,auto
+319,2018-0045,1,2018-04-30,07:00:00,7.0,alvarez thomas av. 879,avenida,13,-58.45448963,-34.5791692,auto,cargas
+320,2018-0046,1,2018-05-02,03:15:00,3.0,"paz, gral. av. y rivadavia av.",gral paz,9,-58.52927982,-34.63931752,peaton,auto
+321,2018-0047,1,2018-05-08,19:00:00,19.0,corrientes av. y dorrego av.,avenida,15,-58.44759966,-34.5917024,peaton,pasajeros
+322,2018-0048,1,2018-05-09,10:30:00,10.0,rivadavia av. y pedernera,avenida,7,-58.46411215,-34.62925068,peaton,pasajeros
+323,2018-0049,1,2018-05-11,19:15:00,19.0,quesada 2300,calle,13,-58.4621322,-34.55395823,peaton,auto
+324,2018-0050,1,2018-05-14,18:45:00,18.0,cabildo av. y juramento av.,avenida,13,-58.45669422,-34.5620361,peaton,pasajeros
+325,2018-0051,1,2018-05-15,21:15:00,21.0,"california y carbonari, francisco, cmte.",calle,4,-58.3597716,-34.64341878,peaton,auto
+326,2018-0052,1,2018-05-18,20:30:00,20.0,"carril, salvador maria del av. y nazca",avenida,15,-58.49820145,-34.59070093,peaton,pasajeros
+327,2018-0053,1,2018-05-20,02:30:00,2.0,san luis y aguero,calle,3,-58.4105928,-34.5993918,moto,auto
+328,2018-0054,1,2018-05-22,11:15:00,11.0,lugones 2430,calle,12,-58.47969138,-34.57121563,peaton,bicicleta
+329,2018-0055,1,2018-05-29,07:30:00,7.0,independencia av. y jujuy av.,avenida,3,-58.40351561,-34.61883916,moto,auto
+330,2018-0056,1,2018-06-02,13:00:00,13.0,rivadavia av. 11050,avenida,9,-58.51973844,-34.63918987,peaton,pasajeros
+331,2018-0057,1,2018-06-03,03:30:00,3.0,combate de los pozos y humberto 1â°,calle,3,-58.39311376,-34.62163006,moto,pasajeros
+332,2018-0058,1,2018-06-03,06:30:00,6.0,cordoba av. y thames,avenida,15,-58.43531242,-34.59082159,moto,auto
+333,2018-0059,1,2018-06-08,06:20:00,6.0,"garay, juan de av. y sanchez de loria",avenida,5,-58.41178165,-34.63035454,moto,otro
+334,2018-0060,1,2018-06-08,12:50:00,12.0,"lavalle y alem, leandro n. av.",avenida,1,-58.370488,-34.60189492,peaton,pasajeros
+335,2018-0061,1,2018-06-10,11:15:00,11.0,estados unidos y pichincha,calle,3,-58.39883882,-34.61964833,moto,moto
+336,2018-0062,1,2018-06-14,01:00:00,1.0,rosario y barco centenera del,calle,6,-58.44110156,-34.62082399,peaton,cargas
+337,2018-0063,1,2018-06-16,21:15:00,21.0,"alem, leandro n. av. y viamonte",avenida,1,-58.37093138,-34.59952725,peaton,pasajeros
+338,2018-0064,1,2018-06-25,01:15:00,1.0,varela av. y primera junta,avenida,7,-58.45855262,-34.63953253,auto,cargas
+339,2018-0065,1,2018-06-26,17:30:00,17.0,"pellegrini, carlos y juncal",calle,1,-58.38161909,-34.59283447,moto,cargas
+340,2018-0066,1,2018-06-28,11:00:00,11.0,"corrientes av. y lacroze, federico av.",avenida,15,-58.45511899,-34.58698157,peaton,pasajeros
+341,2018-0067,1,2018-06-29,16:15:00,16.0,"montes de oca, manuel av. y finochietto enrique dr.",avenida,4,-58.37724226,-34.62973033,pasajeros,auto
+342,2018-0068,1,2018-07-01,09:00:00,9.0,"carabobo av. y alberdi, juan bautista av.",avenida,7,-58.45546217,-34.62930339,moto,auto
+343,2018-0069,1,2018-07-04,21:45:00,21.0,cordoba av. 2215,avenida,2,-58.39897064,-34.59954925,bicicleta,pasajeros
+344,2018-0070,1,2018-07-07,15:45:00,15.0,"estados unidos y urquiza, gral.",calle,3,-58.40917826,-34.62126274,moto,pasajeros
+345,2018-0071,1,2018-07-10,17:50:00,17.0,"moreno y huergo, ing. av.",avenida,1,-58.36726348,-34.61099738,moto,cargas
+346,2018-0072,1,2018-07-11,13:15:00,13.0,autopista dellepiane luis tte. gral. y montiel,autopista,8,-58.48267426,-34.68454456,moto,cargas
+347,2018-0073,1,2018-07-11,15:45:00,15.0,"iriarte, gral. av. 3400",avenida,4,-58.39546165,-34.65168841,peaton,cargas
+348,2018-0074,1,2018-07-14,06:04:00,6.0,"alberdi, juan bautista av. 2968",avenida,7,-58.46941984,-34.63376545,auto,cargas
+349,2018-0075,1,2018-07-15,07:30:00,7.0,del libertador av. y ortiz de ocampo,avenida,14,-58.40367321,-34.58129246,peaton,auto
+350,2018-0076,1,2018-07-16,09:30:00,9.0,"chavez, jorge y paz, gral. av.",calle,9,-58.52932872,-34.65014993,auto,cargas
+351,2018-0077,1,2018-07-16,23:15:00,23.0,"urquiza, gral. y estados unidos",calle,3,-58.40917826,-34.62126274,auto,cargas
+352,2018-0078,1,2018-07-21,06:15:00,6.0,paraguay y sanchez de bustamante,calle,2,-58.41264127,-34.59473294,peaton,auto
+353,2018-0079,1,2018-07-23,07:15:00,7.0,"de los corrales av. y paz, gral. av.",gral paz,9,-58.50877521,-34.66977709,peaton,cargas
+354,2018-0080,1,2018-07-25,22:22:00,22.0,"alberdi, juan bautista av. y carhue",avenida,9,-58.51232237,-34.6590353,peaton,auto
+355,2018-0081,1,2018-07-29,06:30:00,6.0,castaã‘ares av. y rivera indarte av.,avenida,7,-58.44744156,-34.64567171,peaton,multiple
+356,2018-0082,1,2018-08-01,15:53:00,15.0,"larrazabal y garzon, eugenio, gral. av.",avenida,9,-58.49441273,-34.65869968,moto,cargas
+357,2018-0083,1,2018-08-02,05:20:00,5.0,"paz, gral. av. y fernandez de la cruz, f., gral. av.",gral paz,8,-58.47976785,-34.69153196,moto,cargas
+358,2018-0084,1,2018-08-03,07:25:00,7.0,"moreau de justo, alicia av. y cochabamba",avenida,1,-58.36523349,-34.62260331,peaton,cargas
+359,2018-0085,2,2018-08-03,18:16:00,18.0,"entre rios av. y garay, juan de av.",avenida,3,-58.39118948,-34.62704273,moto,pasajeros
+360,2018-0086,1,2018-08-10,21:44:00,21.0,directorio av. y guardia nacional,avenida,9,-58.49019551,-34.65015854,peaton,pasajeros
+361,2018-0087,1,2018-08-15,19:20:00,19.0,pavon av. y colombres,avenida,5,-58.41644362,-34.63023775,peaton,pasajeros
+362,2018-0088,1,2018-08-17,16:36:00,16.0,"paz, gral. av. y balbin, ricardo, dr. av.",gral paz,12,-58.5007381,-34.5497951,moto,cargas
+363,2018-0089,1,2018-08-17,17:56:00,17.0,pichincha av. y brasil,avenida,4,-58.39626094,-34.63036565,peaton,pasajeros
+364,2018-0090,1,2018-08-18,10:34:00,10.0,27 de febrero av. y pergamino,avenida,8,-58.43284809,-34.67051543,moto,auto
+365,2018-0091,1,2018-08-19,18:47:00,18.0,autopista perito moreno y barragan,autopista,9,-58.52280139,-34.63659934,auto,auto
+366,2018-0092,1,2018-08-20,08:20:00,8.0,cordoba av. y gascon,avenida,14,-58.4233693,-34.59774487,moto,auto
+367,2018-0093,1,2018-08-20,08:41:00,8.0,15 de noviembre de 1889 1513,calle,1,-58.38691681,-34.63105973,peaton,pasajeros
+368,2018-0094,1,2018-08-23,05:35:00,5.0,"salguero, jeronimo y beruti",calle,14,-58.4116902,-34.5857988,moto,pasajeros
+369,2018-0095,1,2018-08-26,00:59:00,0.0,"lacarra av. y dellepiane, luis, tte. gral.",avenida,9,-58.46739825,-34.65117757,auto,auto
+370,2018-0096,1,2018-08-31,22:20:00,22.0,"autopista presidente hã‰ctor j. cãmpora y roca, cnel. av.",autopista,8,-58.44483258,-34.67152226,peaton,auto
+371,2018-0097,1,2018-09-02,10:50:00,10.0,"varela av. y rabanal, francisco, intendente av.",avenida,8,-58.43254025,-34.66128115,auto,otro
+372,2018-0098,2,2018-09-09,05:00:00,5.0,"paz, gral. av. y beron de astrada",gral paz,8,-58.47199387,-34.69640164,auto,auto
+373,2018-0099,1,2018-09-12,14:25:00,14.0,rivadavia av. y pedernera,avenida,7,-58.46411215,-34.62925068,peaton,pasajeros
+374,2018-0100,1,2018-09-20,10:30:00,10.0,"rawson de dellepiane, elvira av. 150",avenida,1,-58.36217754,-34.62367156,moto,auto
+375,2018-0101,1,2018-09-21,00:15:00,0.0,"paz, gral. av. y zapiola",gral paz,12,-58.48098594,-34.5407313,auto,multiple
+376,2018-0102,1,2018-09-21,00:30:00,0.0,"famatina y taborda, diogenes",calle,4,-58.41083404,-34.64640709,moto,auto
+377,2018-0103,1,2018-09-27,17:51:00,17.0,"castaã‘ares av. y bonorino, esteban, cnel. av.",avenida,7,-58.44609828,-34.64446729,peaton,moto
+378,2018-0104,1,2018-10-01,08:58:00,8.0,autopista 1 sur presidente arturo frondizi y suarez av.,autopista,4,-58.37709334,-34.64035082,moto,moto
+379,2018-0105,1,2018-10-03,18:12:00,18.0,nazca av. y rivadavia av.,avenida,7,-58.46963952,-34.63070603,peaton,pasajeros
+380,2018-0106,1,2018-10-04,22:02:00,22.0,"figueroa alcorta, pres. av. y echeverria",avenida,13,-58.43674281,-34.55161027,moto,moto
+381,2018-0107,1,2018-10-06,14:20:00,14.0,rivadavia av. y jujuy av.,avenida,3,-58.4059686,-34.61011987,peaton,pasajeros
+382,2018-0108,1,2018-10-09,14:00:00,14.0,"de los italianos av. y guemes, macacha",avenida,1,-58.36154069,-34.60463618,moto,auto
+383,2018-0109,1,2018-10-10,22:12:00,22.0,"tucuman y alem, leandro n. av.",avenida,1,-58.37062179,-34.60066507,peaton,pasajeros
+384,2018-0110,1,2018-10-13,03:05:00,3.0,"corrientes av. y gallardo, angel av.",avenida,15,-58.43220014,-34.60207186,peaton,moto
+385,2018-0111,1,2018-10-19,12:13:00,12.0,"autopista perito moreno & peron, eva  av.",autopista,9,-58.46958442,-34.64949724,moto,cargas
+386,2018-0112,1,2018-10-24,09:18:00,9.0,muã‘ecas y serrano,calle,15,-58.44671397,-34.59970903,moto,cargas
+387,2018-0113,1,2018-10-25,11:00:00,11.0,"artigas, jose gervasio, gral. y tres arroyos",calle,11,-58.47152163,-34.61474911,moto,cargas
+388,2018-0114,1,2018-10-30,02:15:00,2.0,solis e independencia av.,avenida,1,-58.39032921,-34.61807951,moto,auto
+389,2018-0115,1,2018-10-31,12:30:00,12.0,"bosch, ventura y paz, gral. av.",calle,9,-58.52887773,-34.64297861,peaton,pasajeros
+390,2018-0116,1,2018-11-01,10:50:00,10.0,"paz, gral. av. 14800",gral paz,8,-58.49371157,-34.67981324,peaton,cargas
+391,2018-0117,1,2018-11-04,08:15:00,8.0,"peron, eva av. 5321",avenida,9,-58.48266599,-34.66012327,moto,moto
+392,2018-0118,1,2018-11-05,14:49:00,14.0,"peron, juan domingo, tte. general y pueyrredon av.",avenida,3,-58.40612253,-34.60774301,peaton,moto
+393,2018-0119,1,2018-11-05,22:35:00,22.0,"rabanal, francisco, intendente av. y san pedrito",avenida,8,-58.43613623,-34.66292532,peaton,
+394,2018-0120,1,2018-11-09,13:34:00,13.0,monroe y alvarez thomas av.,avenida,12,-58.48250732,-34.57208238,peaton,auto
+395,2018-0121,1,2018-11-09,16:32:00,16.0,rivadavia av. y manzoni,avenida,10,-58.49945705,-34.6374328,peaton,pasajeros
+396,2018-0122,1,2018-11-12,01:00:00,1.0,autopista dellepiane luis tte. gral. y larrazabal,autopista,8,-58.47743966,-34.67233407,auto,auto
+397,2018-0123,1,2018-11-12,03:32:00,3.0,"paz, gral. av. y peron, eva av.",gral paz,9,-58.5025179,-34.67450313,auto,
+398,2018-0124,1,2018-11-15,19:40:00,19.0,autopista perito moreno y reservistas argentinos,autopista,9,-58.52144411,-34.63682499,cargas,cargas
+399,2018-0125,1,2018-11-16,21:12:00,21.0,saenz av. y ventana,avenida,4,-58.41650465,-34.65084045,peaton,pasajeros
+400,2018-0126,1,2018-11-18,12:11:00,12.0,"paz, gral. av. y falcon, ramon l.,cnel.",gral paz,9,-58.52994219,-34.64055918,moto,auto
+401,2018-0127,1,2018-11-19,09:14:00,9.0,"paz, gral. av. y de los constituyentes av.",gral paz,12,-58.50993046,-34.56919739,moto,moto
+402,2018-0128,2,2018-11-25,04:30:00,4.0,"paz, gral. av. 11200",gral paz,9,-58.52844623,-34.64592873,auto,pasajeros
+403,2018-0129,1,2018-11-28,04:01:00,4.0,"newbery, jorge av. y guevara",avenida,15,-58.45021367,-34.58695347,moto,pasajeros
+404,2018-0130,1,2018-12-03,03:00:00,3.0,gaona av. y segurola av.,avenida,10,-58.49022072,-34.62770192,moto,pasajeros
+405,2018-0131,1,2018-12-07,19:10:00,19.0,"madero, eduardo av. 550",avenida,1,-58.36860866,-34.60106568,moto,cargas
+406,2018-0132,1,2018-12-12,08:26:00,8.0,"autopista arturo illia y castillo, ramon s., pres. av.",autopista,2,-58.39490504,-34.57241534,peaton,cargas
+407,2018-0133,1,2018-12-12,14:07:00,14.0,nazca av. y rivadavia av.,avenida,7,-58.46963952,-34.63070603,peaton,cargas
+408,2018-0134,1,2018-12-12,21:00:00,21.0,la plata av. y caseros av.,avenida,7,-58.42349365,-34.64019887,peaton,moto
+409,2018-0135,1,2018-12-18,14:40:00,14.0,belgrano av. y peru,avenida,1,-58.37471802,-34.61265002,peaton,pasajeros
+410,2018-0136,1,2018-12-18,15:42:00,15.0,rivadavia av. 7013,avenida,7,-58.46438789,-34.62913916,peaton,pasajeros
+411,2018-0137,1,2018-12-18,20:15:00,20.0,"alsina, adolfo y santiago del estero",calle,1,-58.38481975,-34.61100424,moto,pasajeros
+412,2018-0138,1,2018-12-21,09:30:00,9.0,bermudez 1893,calle,10,-58.50751833,-34.62073702,pasajeros,pasajeros
+413,2018-0139,1,2018-12-22,06:30:00,6.0,santander 1974,calle,7,-58.44682986,-34.63888084,moto,moto
+414,2018-0140,1,2018-12-22,08:05:00,8.0,lanteri julieta 1400,calle,1,-58.3600465,-34.61381341,auto,auto
+415,2018-0141,1,2018-12-22,17:40:00,17.0,maza e independencia av.,avenida,5,-58.41509546,-34.62085945,peaton,moto
+416,2018-0142,1,2018-12-25,13:30:00,13.0,"paz, gral. av. 5172",gral paz,12,-58.50997604,-34.57251072,cargas,pasajeros
+417,2018-0143,1,2018-12-29,05:25:00,5.0,"olivera av. y alberdi, juan bautista av.",avenida,10,-58.48606475,-34.64047818,moto,auto
+418,2019-0001,1,2019-01-08,08:30:00,8.0,"castillo, ramon s., pres. av. y calle 12 (no oficial)",avenida,2,-58.38526125,-34.5780581,moto,cargas
+419,2019-0002,1,2019-01-09,04:00:00,4.0,"castaã‘ares av. y moreno, perito av.",avenida,7,-58.45463662,-34.65082149,auto,cargas
+420,2019-0003,1,2019-01-12,08:00:00,8.0,san martin av. y terrada,avenida,15,-58.49121672,-34.59718073,moto,auto
+421,2019-0004,1,2019-01-14,19:58:00,19.0,"peron, eva av. y medina",avenida,9,-58.47325712,-34.65284605,auto,pasajeros
+422,2019-0005,1,2019-01-19,12:00:00,12.0,"justo, juan b. av. y alvarez jonte av.",avenida,10,-58.52108101,-34.63382309,moto,cargas
+423,2019-0006,1,2019-01-23,05:45:00,5.0,"obligado rafael, av.costanera 4650",avenida,14,-58.41652702,-34.55509606,peaton,auto
+424,2019-0007,1,2019-01-26,19:34:00,19.0,"mitre, bartolome y yatay",calle,5,-58.42891604,-34.6107166,moto,auto
+425,2019-0008,1,2019-01-30,22:45:00,22.0,"paz, gral. av. 16080",gral paz,8,-58.47802293,-34.69156793,moto,multiple
+426,2019-0009,1,2019-01-31,14:55:00,14.0,chacabuco y san juan av.,avenida,1,-58.37564821,-34.62200207,moto,auto
+427,2019-0010,2,2019-02-02,07:50:00,7.0,del libertador av. 4100,avenida,14,-58.42668489,-34.56961468,peaton,auto
+428,2019-0011,1,2019-02-10,01:00:00,1.0,"paz, gral. av. y alberdi, juan bautista av.",gral paz,9,-58.5183993,-34.66252488,peaton,auto
+429,2019-0012,1,2019-02-17,03:16:00,3.0,"castaã‘ares av. y gordillo, timoteo",avenida,8,-58.48432691,-34.67665828,moto,auto
+430,2019-0013,1,2019-02-20,07:30:00,7.0,salvigny y mom,calle,7,-58.4338383,-34.64457699,peaton,auto
+431,2019-0014,1,2019-02-20,17:30:00,17.0,"lamarca, emilio 5402",calle,11,-58.51664939,-34.58657938,moto,objeto fijo
+432,2019-0015,1,2019-02-23,06:57:00,6.0,san martin av. 5638,avenida,11,-58.49613012,-34.59703502,auto,objeto fijo
+433,2019-0016,1,2019-02-24,02:00:00,2.0,"carrillo, ramon, dr. y finochietto enrique dr.",calle,4,-58.38313603,-34.63356284,moto,pasajeros
+434,2019-0017,1,2019-03-03,07:00:00,7.0,mexico y pichincha,calle,3,-58.39914719,-34.61632317,auto,pasajeros
+435,2019-0018,1,2019-03-03,23:30:00,23.0,"cantilo, int. y udaondo, guillermo av.",autopista,13,-58.44927253,-34.54048625,peaton,auto
+436,2019-0019,1,2019-03-06,12:00:00,12.0,del libertador av. 6326,avenida,13,-58.45049163,-34.55374003,moto,auto
+437,2019-0020,1,2019-03-07,21:01:00,21.0,chiclana av. 3444,avenida,5,-58.41288952,-34.63572989,moto,auto
+438,2019-0021,1,2019-03-15,22:50:00,22.0,boyaca av. y yerbal,avenida,7,-58.45743597,-34.62561234,moto,auto
+439,2019-0022,1,2019-03-15,1900-01-02 00:00:00,0.0,entre rios av. 1260,avenida,1,-58.39123782,-34.62352245,auto,
+440,2019-0023,1,2019-03-16,08:28:00,8.0,"paz, gral. av. y jacques, amadeo",gral paz,9,-58.52922765,-34.63637963,auto,objeto fijo
+441,2019-0024,1,2019-03-19,1900-01-14 07:12:00,7.0,antartida argentina av. 1325,avenida,1,-58.37208118,-34.58541957,moto,cargas
+442,2019-0025,1,2019-03-22,13:10:00,13.0,"mitre, bartolome y sanchez de bustamante",calle,5,-58.41458534,-34.60937557,peaton,auto
+443,2019-0026,1,2019-03-28,07:32:00,7.0,"fernandez de la cruz, f., gral. av. y paz, gral. av.",avenida,8,-58.47976785,-34.69153196,peaton,pasajeros
+444,2019-0027,1,2019-03-28,11:11:00,11.0,santa fe av. y azcuenaga,avenida,2,-58.39990285,-34.59511714,bicicleta,multiple
+445,2019-0028,1,2019-04-06,09:15:00,9.0,"justo, juan b. av. y oroã‘o, nicasio",avenida,11,-58.46051346,-34.60588536,peaton,pasajeros
+446,2019-0029,1,2019-04-07,10:15:00,10.0,"fernandez de la cruz, f., gral. av. y paz, gral. av.",avenida,8,-58.47976785,-34.69153196,moto,objeto fijo
+447,2019-0030,1,2019-04-09,16:00:00,16.0,"alvarez, donato, tte. gral. y yerbal",calle,7,-58.45457546,-34.62447891,moto,cargas
+448,2019-0031,1,2019-04-12,19:55:00,19.0,"cordoba av. y madero, eduardo av.",avenida,1,-58.36951669,-34.59832047,bicicleta,cargas
+449,2019-0032,1,2019-04-16,11:00:00,11.0,"camarones y alvarez, donato, tte. gral. av.",avenida,11,-58.46415322,-34.6044379,peaton,auto
+450,2019-0033,1,2019-04-18,01:00:00,1.0,"autopista 25 de mayo y huergo, ing. av.",autopista,1,-58.36607137,-34.62150748,moto,
+451,2019-0034,1,2019-04-21,09:08:00,9.0,"moreno, perito av. 3050",avenida,7,-58.45537373,-34.65093074,moto,objeto fijo
+452,2019-0035,1,2019-04-23,14:10:00,14.0,suipacha 665,calle,1,-58.37942637,-34.60053054,peaton,bicicleta
+453,2019-0036,1,2019-04-26,22:46:00,22.0,riglos y formosa,calle,6,-58.4368044,-34.62147504,moto,auto
+454,2019-0037,1,2019-05-01,23:10:00,23.0,la rioja e independencia av.,avenida,3,-58.40778291,-34.61971907,moto,auto
+455,2019-0038,1,2019-05-04,14:10:00,14.0,"udaondo, guillermo av. y figueroa alcorta, pres. av.",avenida,13,-58.45212523,-34.54628513,peaton,moto
+456,2019-0039,1,2019-05-09,03:05:00,3.0,san pedrito av. y directorio av.,avenida,7,-58.46749188,-34.63551751,moto,auto
+457,2019-0040,1,2019-05-09,12:45:00,12.0,puan y santander,calle,7,-58.4426358,-34.63679732,moto,
+458,2019-0041,1,2019-05-11,20:30:00,20.0,"alberdi, juan bautista av. y andalgala",avenida,9,-58.51140289,-34.65846419,auto,multiple
+459,2019-0042,1,2019-05-14,15:00:00,15.0,lima y constitucion,calle,1,-58.38211431,-34.62465368,peaton,pasajeros
+460,2019-0043,1,2019-05-21,09:00:00,9.0,"cordoba av. y madero, eduardo av.",avenida,1,-58.36951669,-34.59832047,bicicleta,cargas
+461,2019-0044,1,2019-05-27,12:45:00,12.0,boedo av. 650,avenida,5,-58.41635217,-34.62036547,peaton,moto
+462,2019-0045,1,2019-06-03,07:27:00,7.0,del libertador av. y republica de la india,avenida,14,-58.41316147,-34.57579669,moto,cargas
+463,2019-0046,1,2019-06-04,09:00:00,9.0,"paz, gral. av. y cabildo av.",gral paz,13,-58.47617802,-34.53825652,moto,auto
+464,2019-0047,1,2019-06-06,10:00:00,10.0,caseros av. 1700,avenida,4,-58.38641783,-34.63330028,peaton,cargas
+465,2019-0048,1,2019-06-07,07:00:00,7.0,avellaneda av. 1548,avenida,6,-58.45322169,-34.62038137,moto,cargas
+466,2019-0049,1,2019-06-08,09:20:00,9.0,ciudad de la paz y mendoza,calle,13,-58.45849057,-34.56166498,peaton,cargas
+467,2019-0050,1,2019-06-08,23:35:00,23.0,"salguero, jeronimo y honduras av.",avenida,14,-58.41829559,-34.59411677,moto,cargas
+468,2019-0051,1,2019-06-11,10:00:00,10.0,"filiberto, juan de dios y olavarria",calle,4,-58.36376488,-34.63832093,moto,auto
+469,2019-0053,1,2019-06-14,17:20:00,17.0,asturias av. y castaã‘ares av.,avenida,8,-58.46442668,-34.66004784,auto,auto
+470,2019-0054,1,2019-06-20,03:00:00,3.0,gandara 2976,calle,15,-58.48222035,-34.58428769,moto,objeto fijo
+471,2019-0055,1,2019-06-20,19:45:00,19.0,"guevara, trinidad y madero, eduardo av.",avenida,1,-58.36819005,-34.60283208,moto,pasajeros
+472,2019-0056,1,2019-06-29,17:16:00,17.0,boyaca av. 305,avenida,7,-58.45877601,-34.62330939,peaton,auto
+473,2019-0057,1,2019-07-05,19:00:00,19.0,artilleros y la pampa,calle,13,-58.44196498,-34.55760517,peaton,auto
+474,2019-0058,1,2019-07-10,09:20:00,9.0,autopista perito moreno e irigoyen,autopista,10,-58.50622631,-34.63627822,moto,pasajeros
+475,2019-0059,1,2019-07-13,22:35:00,22.0,15 de noviembre de 1889 y santiago del estero,calle,1,-58.3841088,-34.63099197,moto,pasajeros
+476,2019-0060,1,2019-07-17,11:20:00,11.0,"acosta, mariano av. y falcon, ramon l.,cnel.",avenida,10,-58.48100602,-34.63504312,peaton,auto
+477,2019-0061,1,2019-07-17,18:40:00,18.0,11 de septiembre de 1888 y mendoza,calle,13,-58.45200171,-34.5578132,peaton,pasajeros
+478,2019-0062,1,2019-08-01,23:00:00,23.0,"pino, virrey del y campos, luis m. av.",avenida,13,-58.44462132,-34.56201105,peaton,pasajeros
+479,2019-0063,1,2019-08-04,01:30:00,1.0,forest av. y maure,avenida,15,-58.45220688,-34.58711712,moto,pasajeros
+480,2019-0064,1,2019-08-06,03:15:00,3.0,boyaca av. y avellaneda av.,avenida,7,-58.4596221,-34.6224514,moto,auto
+481,2019-0065,1,2019-08-08,16:45:00,16.0,barco centenera del y tilcara,calle,4,-58.4197085,-34.65414867,peaton,pasajeros
+482,2019-0066,1,2019-08-11,21:15:00,21.0,riestra av. y bolivar (no oficial),avenida,7,-58.44187596,-34.64938031,peaton,auto
+483,2019-0067,1,2019-08-14,15:00:00,15.0,"castro, emilio 4706",calle,10,-58.49101637,-34.64276621,moto,cargas
+484,2019-0068,1,2019-08-14,17:40:00,17.0,27 de febrero av. 5600,avenida,8,-58.42493829,-34.66256502,moto,moto
+485,2019-0069,1,2019-08-17,05:25:00,5.0,"garay, juan de av. 2874",avenida,4,-58.40489318,-34.62930162,moto,auto
+486,2019-0070,1,2019-08-22,12:30:00,12.0,"scalabrini ortiz, raul av. y gorriti",avenida,14,-58.4268668,-34.59217875,moto,bicicleta
+487,2019-0071,1,2019-08-27,11:30:00,11.0,primera junta y olivera av.,avenida,9,-58.479611,-34.65620398,peaton,cargas
+488,2019-0072,1,2019-08-28,06:20:00,6.0,"alberdi, juan bautista av. y azul",avenida,10,-58.47439934,-34.63524207,auto,auto
+489,2019-0073,1,2019-08-29,01:50:00,1.0,alvarez thomas av. 1788,avenida,15,-58.46711912,-34.57926018,auto,objeto fijo
+490,2019-0074,1,2019-08-29,09:00:00,9.0,"lugones, leopoldo av. y paz, gral. av.",autopista,13,-58.46514781,-34.53465378,moto,cargas
+491,2019-0075,1,2019-08-30,23:20:00,23.0,san antonio y lujan,calle,4,-58.37571078,-34.65584079,moto,pasajeros
+492,2019-0076,1,2019-09-05,18:00:00,18.0,autopista 1 sur presidente arturo frondizi y don pedro de mendoza av.,autopista,4,-58.37157668,-34.65429986,moto,cargas
+493,2019-0077,1,2019-09-08,03:40:00,3.0,"figueroa alcorta, pres. av. y tagle",avenida,14,-58.39811256,-34.58070186,peaton,auto
+494,2019-0078,1,2019-09-12,08:25:00,8.0,"einstein, alberto y alcorta, amancio av.",avenida,4,-58.41125934,-34.6541774,peaton,cargas
+495,2019-0079,1,2019-09-17,05:30:00,5.0,agrelo y colombres,calle,5,-58.41822901,-34.61866836,moto,pasajeros
+496,2019-0080,1,2019-09-17,1900-01-04 18:40:00,18.0,"cabildo av. y paz, gral. av.",gral paz,13,-58.47617802,-34.53825652,peaton,moto
+497,2019-0081,1,2019-09-23,16:00:00,16.0,elcano av. 4300,avenida,15,-58.46141281,-34.58623761,peaton,pasajeros
+498,2019-0082,1,2019-09-25,07:45:00,7.0,"rabanal, francisco, intendente av. 2428",avenida,8,-58.42985146,-34.6611974,bicicleta,cargas
+499,2019-0083,1,2019-09-26,08:00:00,8.0,monte y corvalan,calle,9,-58.48457413,-34.6583909,auto,auto
+500,2019-0084,1,2019-09-27,11:45:00,11.0,tandil y lafuente,calle,7,-58.46572884,-34.63628186,bicicleta,cargas
+501,2019-0085,1,2019-10-09,22:18:00,22.0,cardoso y bacacay,calle,10,-58.49261744,-34.6341913,bicicleta,tren
+502,2019-0086,1,2019-10-15,14:10:00,14.0,corrientes av. 6700,avenida,15,-58.45283186,-34.5884156,moto,pasajeros
+503,2019-0087,1,2019-10-21,21:00:00,21.0,alvarez thomas av. y mendoza,avenida,12,-58.47973681,-34.57418656,moto,moto
+504,2019-0088,1,2019-10-22,20:00:00,20.0,"alcorta, amancio av. y bonavena, oscar natalio",avenida,4,-58.40623949,-34.65076549,peaton,pasajeros
+505,2019-0089,1,2019-10-23,15:45:00,15.0,"brown, alte. av. y blanes, juan manuel",avenida,4,-58.36244648,-34.63107887,peaton,cargas
+506,2019-0090,1,2019-10-24,18:26:00,18.0,"alberdi, juan bautista av. 5455",avenida,9,-58.49962423,-34.64868027,peaton,moto
+507,2019-0091,1,2019-11-01,20:50:00,20.0,"justo, juan b. av. y camargo",avenida,15,-58.44551437,-34.59559816,peaton,pasajeros
+508,2019-0092,1,2019-11-03,10:30:00,10.0,"brin, ministro y suarez",calle,4,-58.35608181,-34.63420319,peaton,pasajeros
+509,2019-0093,1,2019-11-13,11:50:00,11.0,"niza y justo, juan b. av.",avenida,11,-58.46483679,-34.60907662,bicicleta,otro
+510,2019-0094,1,2019-11-18,14:00:00,14.0,camargo y serrano,calle,15,-58.44368628,-34.59724326,moto,otro
+511,2019-0095,1,2019-11-20,15:30:00,15.0,autopista 1 sur presidente arturo frondizi y caseros av.,autopista,1,-58.37864583,-34.62907067,moto,cargas
+512,2019-0096,1,2019-11-22,19:33:00,19.0,caseros av. y piedras,avenida,1,-58.37560352,-34.62726382,peaton,pasajeros
+513,2019-0097,1,2019-11-25,08:50:00,8.0,autopista perito moreno km. 5.6,autopista,9,-58.47721439,-34.64815069,moto,multiple
+514,2019-0098,1,2019-11-25,14:00:00,14.0,guzman 365,avenida,15,-58.45134029,-34.58984288,pasajeros,pasajeros
+515,2019-0100,1,2019-12-05,17:30:00,17.0,de los constituyentes av. 4300,avenida,12,-58.49040794,-34.58368803,moto,auto
+516,2019-0101,1,2019-12-17,04:20:00,4.0,"moreno, perito av. y tilcara av.",avenida,4,-58.42102679,-34.64991178,moto,moto
+517,2019-0102,1,2019-12-17,14:30:00,14.0,"ibarrola y gordillo, timoteo",calle,9,-58.52219407,-34.64143926,moto,auto
+518,2019-0103,1,2019-12-18,SD,,"paz, gral. av. y griveo",gral paz,11,-58.52169422,-34.5947164,moto,moto
+519,2019-0104,1,2019-12-21,04:25:00,4.0,rivadavia av. y pergamino,avenida,10,-58.47460416,-34.63206174,moto,auto
+520,2019-0105,1,2019-05-05,11:00:00,11.0,santo tome y segurola av.,avenida,10,-58.50512382,-34.61520391,peaton,auto
+521,2020-0001,1,2020-01-04,10:40:00,10.0,uriarte y loyola,calle,15,-58.43910409,-34.59213355,peaton,auto
+522,2020-0002,1,2020-01-05,20:00:00,20.0,saraza y varela av.,avenida,7,-58.45019436,-34.64646409,moto,objeto fijo
+523,2020-0003,1,2020-01-11,06:00:00,6.0,rivadavia av. y combate de los pozos,avenida,3,-58.39337644,-34.60927582,peaton,auto
+524,2020-0004,1,2020-01-14,21:40:00,21.0,rodriguez peã‘a y rivadavia av.,avenida,1,-58.39055614,-34.60919284,peaton,pasajeros
+525,2020-0005,1,2020-01-14,06:00:00,6.0,24 de noviembre y san juan av.,avenida,3,-58.41036975,-34.62477021,moto,pasajeros
+526,2020-0006,1,2020-01-20,12:55:00,12.0,lafuente av. 2250,avenida,8,-58.44925765,-34.65412546,moto,cargas
+527,2020-0007,1,2020-01-27,00:37:00,0.0,chile y lima,calle,1,-58.3815685,-34.61648696,peaton,moto
+528,2020-0008,1,2020-01-30,07:10:00,7.0,"cordoba av. y jaures, jean",avenida,2,-58.40662899,-34.59804521,moto,cargas
+529,2020-0009,1,2020-02-04,14:50:00,14.0,"peron, juan domingo, tte. general y salguero, jeronimo",calle,5,-58.41985649,-34.6060085,peaton,auto
+530,2020-0010,1,2020-02-08,05:45:00,5.0,9 de julio av. y san juan av.,avenida,1,-58.38099833,-34.62214953,moto,objeto fijo
+531,2020-0011,1,2020-02-12,11:29:00,11.0,colombres 466,calle,5,-58.41803309,-34.61823178,moto,cargas
+532,2020-0012,1,2020-02-18,21:00:00,21.0,mexico 2860,calle,3,-58.40604003,-34.61783553,peaton,moto
+533,2020-0013,1,2020-02-20,12:00:00,12.0,combatientes de malvinas av. y triunvirato av.,avenida,15,-58.47549929,-34.57994061,peaton,moto
+534,2020-0014,1,2020-02-27,02:14:00,2.0,bermudez y nogoya,calle,11,-58.51398484,-34.61600366,moto,pasajeros
+535,2020-0015,1,2020-02-28,14:30:00,14.0,brasil av. y paseo colon av.,avenida,1,-58.36797542,-34.62519403,moto,pasajeros
+536,2020-0016,1,2020-02-29,13:00:00,13.0,"alem, leandro n. av. 770",avenida,1,-58.37133616,-34.59879316,peaton,pasajeros
+537,2020-0017,1,2020-03-05,23:00:00,23.0,belgrano av. y rincon,avenida,3,-58.39613805,-34.61413568,peaton,auto
+538,2020-0018,1,2020-03-09,14:00:00,14.0,"udaondo, guillermo av. 901",avenida,13,-58.44903073,-34.54200276,moto,objeto fijo
+539,2020-0019,1,2020-03-10,21:00:00,21.0,constitucion y castro,calle,5,-58.41972364,-34.6284667,peaton,auto
+540,2020-0020,1,2020-03-13,17:30:00,17.0,"pueyrredon av. y gomez, valentin",avenida,3,-58.40571596,-34.60557123,peaton,moto
+541,2020-0021,1,2020-03-14,16:50:00,16.0,"bravo, mario 1279",calle,2,-58.4145159,-34.59488319,peaton,auto
+542,2020-0022,1,2020-04-07,06:15:00,6.0,autopista dellepiane luis tte. gral. y escalada av.,autopista,9,-58.47297505,-34.66245085,auto,cargas
+543,2020-0023,1,2020-04-09,18:42:00,18.0,"araoz de lamadrid, gregorio, gral. y brown, alte. av.",avenida,4,-58.35791192,-34.63695178,auto,cargas
+544,2020-0024,1,2020-04-24,07:58:00,7.0,murguiondo 1339,calle,9,-58.50801713,-34.65177305,auto,auto
+545,2020-0025,1,2020-05-12,05:35:00,5.0,rivadavia av. 2551,avenida,3,-58.40258477,-34.60975108,peaton,auto
+546,2020-0026,1,2020-05-17,06:40:00,6.0,,autopista,14,,,moto,objeto fijo
+547,2020-0027,1,2020-05-18,08:00:00,8.0,"dellepiane, luis, tte. gral. y montiel",avenida,8,-58.48267426,-34.68454456,peaton,cargas
+548,2020-0028,1,2020-05-19,10:00:00,10.0,"scalabrini ortiz, raul av. y warnes av.",avenida,15,-58.44248936,-34.60221948,peaton,pasajeros
+549,2020-0029,1,2020-06-10,14:00:00,14.0,"paz, gral. av. y roffo, angel h., dr.",gral paz,9,-58.52909134,-34.63886726,peaton,pasajeros
+550,2020-0030,1,2020-06-16,15:00:00,15.0,san martin av. 1550,avenida,6,-58.45158942,-34.6064658,moto,multiple
+551,2020-0031,1,2020-06-30,08:00:00,8.0,"garzon, eugenio, gral. av. y larraya",avenida,9,-58.49344309,-34.65788529,moto,cargas
+552,2020-0032,1,2020-07-10,23:00:00,23.0,corrientes av. y serrano,avenida,15,-58.44259166,-34.59635137,moto,auto
+553,2020-0033,1,2020-07-19,06:25:00,6.0,"paz, gral. av. y del libertador av.",gral paz,13,-58.46743471,-34.53476874,auto,objeto fijo
+554,2020-0034,1,2020-08-02,03:20:00,3.0,"mitre, bartolome y anchorena, tomas manuel de, dr.",calle,3,-58.41178158,-34.60922259,peaton,auto
+555,2020-0035,1,2020-08-04,05:30:00,5.0,autopista 25 de mayo y pumacahua,autopista,7,-58.45068621,-34.63638927,moto,pasajeros
+556,2020-0036,1,2020-08-07,18:40:00,18.0,"scalabrini ortiz, raul av. y paraguay",avenida,14,-58.42016954,-34.5877879,peaton,moto
+557,2020-0037,1,2020-08-29,04:30:00,4.0,"fernandez de la cruz, f., gral. av. y varela av.",avenida,8,-58.43850413,-34.65554754,peaton,auto
+558,2020-0038,2,2020-08-30,04:00:00,4.0,"las heras general av. y diaz, cnel. av.",avenida,14,-58.40617526,-34.58345898,auto,auto
+559,2020-0039,1,2020-09-01,19:17:42,19.0,murguiondo,calle,9,,,peaton,cargas
+560,2020-0040,1,2020-09-12,03:30:00,3.0,"castillo, ramon s., pres. av. y calle 12 (no oficial)",avenida,2,-58.38526125,-34.5780581,auto,objeto fijo
+561,2020-0041,1,2020-09-28,01:45:00,1.0,"curapaligue y peron, eva av.",avenida,7,-58.4475047,-34.63491705,moto,pasajeros
+562,2020-0042,1,2020-09-29,17:10:00,17.0,"diaz, ana y soldado de la frontera av.",avenida,8,-58.46745752,-34.68192648,peaton,pasajeros
+563,2020-0043,1,2020-09-30,17:20:00,17.0,"alem, leandro n. av. y paraguay",avenida,1,-58.37202621,-34.59717942,peaton,pasajeros
+564,2020-0044,1,2020-10-05,00:20:00,0.0,la plata av. e independencia av.,avenida,6,-58.42779702,-34.62207347,auto,auto
+565,2020-0045,1,2020-10-19,03:00:00,3.0,"paz, gral. av. y 27 de febrero av.",gral paz,8,-58.46244952,-34.70524971,auto,cargas
+566,2020-0046,1,2020-10-27,21:00:00,21.0,"nazca av. y carranza, adolfo p.",avenida,11,-58.4844016,-34.60776782,moto,moto
+567,2020-0047,1,2020-10-27,14:00:00,14.0,autopista presidente hã‰ctor j. cãmpora y lacarra av.,autopista,9,-58.46668375,-34.65174801,peaton,cargas
+568,2020-0048,1,2020-10-29,20:20:00,20.0,dorrego av. 614,avenida,15,-58.4495878,-34.59322448,moto,objeto fijo
+569,2020-0049,1,2020-10-30,20:00:00,20.0,"del libertador av. y ramos mejia, jose maria, dr. av.",avenida,1,-58.37533517,-34.59276462,peaton,auto
+570,2020-0050,1,2020-11-01,22:00:00,22.0,santa fe av. y godoy cruz,avenida,14,-58.42525456,-34.57866344,peaton,moto
+571,2020-0051,1,2020-11-05,00:40:00,0.0,avellaneda av. y mercedes,avenida,10,-58.48493828,-34.62981124,moto,auto
+572,2020-0052,1,2020-11-07,06:50:00,6.0,tucuman y pueyrredon av.,avenida,3,-58.40480504,-34.60183884,bicicleta,cargas
+573,2020-0053,1,2020-11-09,03:30:00,3.0,"alcorta, amancio av. y einstein, alberto",avenida,4,-58.41125934,-34.6541774,auto,auto
+574,2020-0054,1,2020-11-19,09:00:00,9.0,inclan y alberti,calle,4,-58.39956546,-34.6297708,bicicleta,auto
+575,2020-0055,1,2020-11-19,12:30:00,12.0,olazabal av. 5437,avenida,12,-58.49005682,-34.5786897,peaton,cargas
+576,2020-0056,1,2020-11-21,13:00:00,13.0,"paz, gral. av. y roca, cnel. av.",gral paz,8,-58.47064556,-34.69843756,moto,cargas
+577,2020-0057,1,2020-11-23,07:45:00,7.0,"nazca av. y viale, luis",avenida,11,-58.4750156,-34.61945902,peaton,auto
+578,2020-0058,1,2020-11-24,16:00:00,16.0,"olivera av. y falcon, ramon l.,cnel.",avenida,10,-58.48727942,-34.63652467,peaton,auto
+579,2020-0059,1,2020-12-01,06:35:00,6.0,brasil 1100,calle,1,-58.3795169,-34.62794241,peaton,pasajeros
+580,2020-0060,1,2020-12-03,20:30:00,20.0,"homero y peron, eva av.",avenida,9,-58.47750832,-34.65672199,peaton,moto
+581,2020-0061,1,2020-12-03,14:40:00,14.0,"cantilo, int. y udaondo, guillermo av.",autopista,13,-58.44927253,-34.54048625,moto,cargas
+582,2020-0062,1,2020-12-04,17:19:00,17.0,moreno 1845,calle,3,-58.39246272,-34.61253541,bicicleta,pasajeros
+583,2020-0063,2,2020-12-05,07:10:00,7.0,nueva york y alta gracia,calle,11,-58.52783814,-34.61047001,peaton_moto,moto
+584,2020-0065,1,2020-12-05,16:00:00,16.0,"paz, gral. av. y goyeneche, roberto parque av.",gral paz,12,-58.49332664,-34.54836855,moto,auto
+585,2020-0066,1,2020-12-07,04:30:00,4.0,autopista perito moreno (altura estacion de tren villa luro),autopista,10,-58.50178784,-34.63593897,moto,objeto fijo
+586,2020-0067,1,2020-12-11,22:00:00,22.0,saenz av. y beazley,avenida,4,-58.41657793,-34.65476216,peaton,pasajeros
+587,2020-0068,1,2020-12-12,20:30:00,20.0,del libertador av. y austria,avenida,2,-58.39731474,-34.58307887,moto,auto
+588,2020-0069,1,2020-12-15,05:20:00,5.0,"independencia av. y saenz peã‘a, luis, pres.",avenida,1,-58.38746381,-34.61790839,moto,pasajeros
+589,2020-0070,1,2020-12-17,15:35:00,15.0,"callao av. y las heras, general",avenida,2,-58.39189441,-34.59176378,peaton,pasajeros
+590,2020-0071,1,2020-12-17,23:00:00,23.0,san pedrito av. y directorio av.,avenida,7,-58.46749188,-34.63551751,peaton,auto
+591,2020-0072,1,2020-12-19,03:30:00,3.0,"jujuy av. y calvo, carlos",avenida,3,-58.40280471,-34.62113271,bicicleta,auto
+592,2020-0073,1,2020-12-20,07:40:00,7.0,27 de febrero av. y escalada av.,avenida,8,-58.44451316,-34.68475866,moto,objeto fijo
+593,2020-0074,1,2020-12-20,21:00:00,21.0,bogota y nazca av.,avenida,7,-58.47110424,-34.62742408,auto,auto
+594,2020-0075,1,2020-12-23,14:00:00,14.0,corrientes av. y 9 de julio av.,avenida,1,-58.38220928,-34.60373898,peaton,pasajeros
+595,2020-0076,1,2020-12-24,12:30:00,12.0,alvarez jonte av. y chivilcoy,avenida,10,-58.49794468,-34.61565025,auto,pasajeros
+596,2020-0077,2,2020-12-25,06:40:00,6.0,san martin av. y punta arenas,avenida,15,-58.47220945,-34.60111373,moto,auto
+597,2020-0078,1,2020-12-25,05:50:00,5.0,barco centenera del 1118,calle,7,-58.43706741,-34.63217813,bicicleta,pasajeros
+598,2020-0079,1,2020-12-27,04:15:00,4.0,"paz, gral. av. y goyeneche, roberto parque av.",gral paz,12,-58.49332664,-34.54836855,moto,objeto fijo
+599,2021-0001,1,2021-01-06,18:00:00,18.0,au frondizi km. 3,autopista,1,-58.37960727,-34.62622851,moto,auto
+600,2021-0002,1,2021-01-07,10:20:00,10.0,"castro, emilio av. y murguiondo",avenida,9,-58.51061062,-34.64972472,moto,cargas
+601,2021-0003,1,2021-01-10,07:40:00,7.0,autopista 25 de mayo km. 3.7,autopista,7,-58.43052224,-34.62941648,moto,objeto fijo
+602,2021-0004,1,2021-01-11,09:12:18,9.0,caseros av. y guarani,avenida,5,-58.41455544,-34.63866836,peaton,cargas
+603,2021-0005,1,2021-01-11,21:30:00,21.0,"peron, eva av. 3800",avenida,9,-58.46774439,-34.64730145,peaton,auto
+604,2021-0006,1,2021-01-12,21:00:00,21.0,autopista arturo illia y sarmiento av.,autopista,14,-58.40786274,-34.56726817,moto,cargas
+605,2021-0007,1,2021-01-18,10:00:00,10.0,de los constituyentes av. y giribone,avenida,15,-58.48744301,-34.58622275,moto,moto
+606,2021-0008,1,2021-01-22,23:30:00,23.0,"saenz av. y rabanal, francisco, intendente av.",avenida,4,-58.41657793,-34.65476216,peaton,pasajeros
+607,2021-0009,1,2021-01-23,05:30:00,5.0,paysandu y gaona av.,avenida,6,-58.45351111,-34.61134937,moto,objeto fijo
+608,2021-0010,1,2021-01-23,08:00:00,8.0,"paz, gral. av. y balbin, ricardo, dr. av.",gral paz,12,-58.5007381,-34.5497951,moto,auto
+609,2021-0011,1,2021-01-27,01:04:26,1.0,santa fe av. 1675,avenida,2,-58.39144148,-34.59564871,peaton,auto
+610,2021-0012,1,2021-01-29,20:07:22,20.0,"dellepiane, luis, tte. gral. y guamini",autopista,8,-58.48191128,-34.68385968,peaton,auto
+611,2021-0013,1,2021-01-31,06:10:00,6.0,"falcon, ramon l.,cnel. y olivera av.",avenida,10,-58.48727942,-34.63652467,moto,objeto fijo
+612,2021-0014,1,2021-02-02,00:50:00,0.0,san martin av. y nogoya,avenida,15,-58.48328708,-34.59779521,peaton,auto
+613,2021-0015,1,2021-02-06,03:05:00,3.0,san martin av. y tinogasta,avenida,15,-58.49018543,-34.5972499,moto,objeto fijo
+614,2021-0016,1,2021-02-14,05:50:00,5.0,"fernandez de la cruz, f., gral. av. y de la torre, lisandro",avenida,8,-58.47230127,-34.68482689,auto,objeto fijo
+615,2021-0017,1,2021-02-17,04:10:00,4.0,salta y caseros av.,avenida,1,-58.38262614,-34.63168269,moto,pasajeros
+616,2021-0018,1,2021-02-20,19:00:00,19.0,"jaures, jean y peron, juan domingo, tte. general",calle,3,-58.41047268,-34.60793518,peaton,auto
+617,2021-0019,1,2021-02-21,01:20:00,1.0,"triunvirato av. y larralde, crisologo av.",avenida,12,-58.49659234,-34.56353635,moto,objeto fijo
+618,2021-0020,1,2021-02-21,15:00:00,15.0,potosi y gascon,calle,5,-58.42462955,-34.60727189,peaton,cargas
+619,2021-0021,1,2021-02-26,05:30:00,5.0,"yrigoyen, hipolito y 24 de noviembre",calle,3,-58.41168345,-34.61185625,moto,objeto fijo
+620,2021-0022,1,2021-02-28,12:00:00,12.0,del libertador av. y roosevelt franklin d.,avenida,13,-58.45157681,-34.55217303,pasajeros,
+621,2021-0023,1,2021-03-01,09:20:00,9.0,,autopista,4,,,moto,cargas
+622,2021-0024,1,2021-03-03,16:30:00,16.0,"peron, eva av. y piedra buena av.",avenida,9,-58.49573651,-34.67006054,bicicleta,cargas
+623,2021-0025,1,2021-03-11,03:45:00,3.0,"paz, gral. av. y autopista dellepiane luis tte. gral.",gral paz,8,-58.48695354,-34.68795245,moto,otro
+624,2021-0026,1,2021-03-15,02:35:00,2.0,"autopista 1 sur presidente arturo frondizi y quinquela martin, benito",autopista,4,-58.37562539,-34.64449357,moto,objeto fijo
+625,2021-0027,1,2021-03-16,15:30:00,15.0,"paz, gral. av. y donado",gral paz,12,-58.49491054,-34.54795581,moto,cargas
+626,2021-0028,1,2021-03-29,17:20:00,17.0,"corea av. y torres y tenorio, pres.",avenida,7,-58.44147621,-34.64357704,peaton,pasajeros
+627,2021-0029,1,2021-03-31,18:05:00,18.0,"falcon, ramon l.,cnel. y san pedrito av.",avenida,7,-58.46899119,-34.63215432,auto,auto
+628,2021-0030,1,2021-04-03,18:30:00,18.0,finochietto enrique dr. 1623,calle,4,-58.38685612,-34.63455776,peaton,pasajeros
+629,2021-0031,1,2021-04-07,10:29:00,10.0,9 de julio av. e independencia av.,avenida,1,-58.38113667,-34.61765323,peaton,cargas
+630,2021-0032,1,2021-04-10,19:55:00,19.0,"cantilo, int. y guiraldes, int.",autopista,13,-58.44112678,-34.54538956,peaton,moto
+631,2021-0033,1,2021-04-14,17:50:00,17.0,autopista 25 de mayo y boedo av.,autopista,5,-58.41595919,-34.62743346,auto,objeto fijo
+632,2021-0034,1,2021-04-19,14:40:00,14.0,"alcorta, amancio av. y zavaleta",avenida,4,-58.40184094,-34.64546845,moto,cargas
+633,2021-0035,1,2021-05-03,09:20:00,9.0,"janer, ana maria y lafuente av.",avenida,8,-58.44642231,-34.65679806,moto,cargas
+634,2021-0036,1,2021-05-09,06:00:00,6.0,"paz, gral. av. y mosconi general av.",gral paz,11,-58.52340614,-34.59798754,moto,objeto fijo
+635,2021-0037,1,2021-05-11,07:10:00,7.0,"monroe y balbin, ricardo, dr. av.",avenida,13,-58.46649069,-34.56219075,peaton,pasajeros
+636,2021-0038,1,2021-05-14,11:40:00,11.0,"justo, juan b. av. y santa fe av.",avenida,14,-58.42653328,-34.57816791,moto,cargas
+637,2021-0039,1,2021-05-15,12:09:00,12.0,"oliden y alberdi, juan bautista av.",avenida,9,-58.50407099,-34.65303372,bicicleta,auto
+638,2021-0040,1,2021-05-20,05:50:00,5.0,"paz, gral. av. y del libertador av.",gral paz,13,-58.46743471,-34.53476874,moto,auto
+639,2021-0041,1,2021-05-20,08:30:00,8.0,del libertador av. y casares av.,avenida,14,-58.40986646,-34.5772806,peaton,pasajeros
+640,2021-0042,1,2021-05-21,05:00:00,5.0,rivadavia av. 10900,avenida,9,-58.51739138,-34.63931792,peaton,pasajeros
+641,2021-0043,1,2021-05-22,18:26:00,18.0,"alberdi, juan bautista av. y pilar",avenida,9,-58.50719962,-34.65556223,peaton,auto
+642,2021-0044,1,2021-05-25,02:00:00,2.0,"peron, eva av. y acosta, mariano",avenida,9,-58.46712311,-34.64600222,moto,objeto fijo
+643,2021-0045,1,2021-05-26,17:24:00,17.0,autopista 1 sur presidente arturo frondizi y suarez av.,autopista,4,-58.37709334,-34.64035082,moto,multiple
+644,2021-0046,1,2021-05-31,02:00:00,2.0,elcano av. y guzman av.,avenida,15,-58.46033141,-34.58569883,auto,objeto fijo
+645,2021-0047,1,2021-06-02,16:00:00,16.0,"vedia, agustin de y rabanal, francisco, intendente av.",avenida,4,-58.42190745,-34.65633192,moto,auto
+646,2021-0048,1,2021-06-03,09:58:00,9.0,capdevila y congreso av.,avenida,12,-58.49026573,-34.5698141,bicicleta,auto
+647,2021-0049,1,2021-06-03,20:30:00,20.0,"fernandez de la cruz, f., gral. av. 4000",avenida,8,-58.45410344,-34.66902702,auto,auto
+648,2021-0050,1,2021-06-10,13:30:00,13.0,del libertador av. 5958,avenida,13,-58.44751621,-34.55719892,moto,pasajeros
+649,2021-0051,1,2021-06-15,19:20:00,19.0,27 de febrero av. y erezcano av.,avenida,4,-58.42040352,-34.66005171,peaton,cargas
+650,2021-0052,1,2021-06-20,05:40:00,5.0,"paz, gral. av. 14723",gral paz,8,-58.49530249,-34.68010798,moto,objeto fijo
+651,2021-0053,1,2021-06-20,12:00:00,12.0,corrientes av. 5783,avenida,15,-58.44399875,-34.5947736,peaton,bicicleta
+652,2021-0054,1,2021-06-22,14:44:00,14.0,tabare y erezcano,calle,4,-58.42759813,-34.65463857,moto,cargas
+653,2021-0055,1,2021-06-29,12:20:00,12.0,corrientes av. y pueyrredon av.,avenida,3,-58.40547222,-34.60456293,moto,cargas
+654,2021-0056,1,2021-07-09,23:25:00,23.0,"corrales y moreno, perito av.",avenida,4,-58.42473018,-34.6500828,bicicleta,auto
+655,2021-0057,1,2021-07-10,23:30:00,23.0,autopista  arturo illia (cabina de peaje),autopista,2,-58.39257023,-34.57563957,auto,objeto fijo
+656,2021-0058,1,2021-07-21,00:40:00,0.0,"paz, gral. av. y vedia",gral paz,12,-58.48941042,-34.54596153,peaton,auto
+657,2021-0059,1,2021-07-22,01:20:00,1.0,"garay, juan de av. 2269",avenida,3,-58.3964074,-34.62783085,auto,objeto fijo
+658,2021-0060,1,2021-07-22,12:30:00,12.0,"salguero, jeronimo y rivadavia av.",avenida,5,-58.41971993,-34.6111224,peaton,pasajeros
+659,2021-0061,1,2021-07-24,09:15:00,9.0,"moreno, perito av. y alcorta, amancio av.",avenida,4,-58.40544588,-34.65012801,peaton,cargas
+660,2021-0062,1,2021-07-27,07:16:00,7.0,la plata av. 2723,avenida,4,-58.42003882,-34.64645957,auto,cargas
+661,2021-0063,1,2021-08-02,04:40:00,4.0,"alberdi, juan bautista av. 2906",avenida,7,-58.46851293,-34.63348678,auto,auto
+662,2021-0064,1,2021-08-02,20:00:00,20.0,"paz, gral. av. y tonelero",gral paz,9,-58.52931141,-34.65422917,peaton,cargas
+663,2021-0065,1,2021-08-06,08:30:00,8.0,san juan av. y la plata av.,avenida,6,-58.42675754,-34.6269973,peaton,pasajeros
+664,2021-0066,1,2021-08-06,20:00:00,20.0,"lope de vega av. y paz, gral. av.",avenida,11,-58.52933723,-34.61098186,peaton,pasajeros
+665,2021-0067,1,2021-08-08,09:29:00,9.0,autopista 1 sur presidente arturo frondizi y brasil,autopista,1,-58.37910943,-34.62764718,moto,objeto fijo
+666,2021-0068,1,2021-08-15,06:10:00,6.0,"beiro, francisco av. 5071",avenida,11,-58.52161176,-34.61164474,moto,objeto fijo
+667,2021-0069,1,2021-08-20,17:15:00,17.0,santa fe av. 3428,avenida,14,-58.41354692,-34.5869768,peaton,auto
+668,2021-0070,1,2021-08-28,08:30:00,8.0,"chilavert, martiniano, coronel y varela av.",avenida,8,-58.43960781,-34.65470804,moto,cargas
+669,2021-0071,1,2021-08-31,16:00:00,16.0,san luis 2730,calle,3,-58.4045461,-34.60003693,peaton,moto
+670,2021-0072,1,2021-09-01,19:10:00,19.0,callao av. y paraguay,avenida,2,-58.39303911,-34.59871111,peaton,auto
+671,2021-0073,1,2021-09-18,12:20:00,12.0,"del libertador av. y agote, luis dr.",avenida,2,-58.39391034,-34.58405348,bicicleta,auto
+672,2021-0074,1,2021-09-20,15:00:00,15.0,"paz, gral. av. y balbin, ricardo, dr. av.",gral paz,12,-58.5007381,-34.5497951,moto,multiple
+673,2021-0075,1,2021-09-21,14:30:00,14.0,salta y brasil,calle,1,-58.38281301,-34.62786038,peaton,cargas
+674,2021-0076,1,2021-10-16,06:15:00,6.0,"moreno, perito av. 2152",avenida,7,-58.43980799,-34.65094083,moto,objeto fijo
+675,2021-0077,1,2021-10-18,07:20:00,7.0,directorio av. 1169,avenida,6,-58.44402387,-34.62933109,moto,cargas
+676,2021-0078,1,2021-10-23,06:35:00,6.0,independencia av. y la plata av.,avenida,6,-58.42779702,-34.62207347,moto,pasajeros
+677,2021-0079,1,2021-10-25,03:30:00,3.0,tucuman 3112,calle,3,-58.40944147,-34.60097942,peaton,auto
+678,2021-0080,1,2021-10-28,16:16:00,16.0,arenales y 9 de julio av.,avenida,1,-58.38277479,-34.5943016,moto,auto
+679,2021-0081,1,2021-11-02,13:35:00,13.0,autopista 1 sur presidente arturo frondizi y brandsen,autopista,4,-58.37627355,-34.63800916,moto,cargas
+680,2021-0082,1,2021-11-06,04:39:00,4.0,autopista 25 de mayo y pasco,autopista,3,-58.39591856,-34.62453459,moto,auto
+681,2021-0083,1,2021-11-09,00:35:00,0.0,cabildo av. y olazabal,avenida,13,-58.45829717,-34.56015762,moto,auto
+682,2021-0084,1,2021-11-11,03:00:00,3.0,tapalque y bruix av.,avenida,9,-58.49142611,-34.64584795,auto,objeto fijo
+683,2021-0085,1,2021-11-20,18:30:00,18.0,"paz, gral. av. y ezeiza",gral paz,12,-58.51271409,-34.57786555,moto,objeto fijo
+684,2021-0086,1,2021-11-25,10:10:00,10.0,rivadavia av. y puan,avenida,6,-58.44864864,-34.62352826,peaton,pasajeros
+685,2021-0087,1,2021-11-27,11:22:00,11.0,esmeralda 1359,calle,1,-58.37795815,-34.59167894,peaton,bicicleta
+686,2021-0088,1,2021-12-01,15:40:00,15.0,monroe y 3 de febrero,calle,13,-58.45531707,-34.55555257,moto,auto
+687,2021-0089,1,2021-12-02,01:10:00,1.0,gaona av. 3655,avenida,11,-58.47633683,-34.62140594,moto,auto
+688,2021-0090,1,2021-12-10,11:45:00,11.0,9 de julio av. y lavalle,avenida,1,-58.38188582,-34.60256036,peaton,pasajeros
+689,2021-0091,1,2021-12-11,23:00:00,23.0,"baigorria y hugo, victor",calle,10,-58.51989389,-34.62284918,moto,auto
+690,2021-0092,1,2021-12-12,06:20:00,6.0,rivadavia av. y pueyrredon av.,avenida,3,-58.4059686,-34.61011987,peaton,auto
+691,2021-0093,1,2021-12-13,17:10:00,17.0,riestra av. y mom,avenida,7,-58.43353773,-34.64561636,moto,auto
+692,2021-0094,1,2021-12-20,01:10:00,1.0,"dellepiane, luis, tte. gral. y lacarra av.",autopista,9,-58.46739825,-34.65117757,moto,auto
+693,2021-0095,1,2021-12-30,00:43:00,0.0,gaona av. y terrada,avenida,11,-58.47293407,-34.61984745,moto,cargas
+694,2021-0096,1,2021-12-15,10:30:00,10.0,"peron, eva av. 4071",avenida,9,-58.47066794,-34.65021673,auto,cargas
+695,2021-0097,1,2021-11-18,06:10:00,6.0,padre carlos mugica 709,calle,1,-58.37976155,-34.58679619,bicicleta,auto
