@@ -46,6 +46,12 @@ Los meses de Noviembre y Diciembre resultaron con el mayor número de siniestros
 
 Parte de las recomendaciones están enfocadas en aumentar el nivel de concientización en la población masculina de mediana edad, así como también reforzar las campañas durante los últimos meses del año que tienen mayor concentración de siniestros. También es sumamente importante concientizar sobre el riesgo que tienen los peatones por más que no estén usando un medio de transporte público o privado, y sobretodo a los motociclistas que son los principales afectados según la investigación.
 
+### KPIs
+
+Se buscó desarrolar 3 KPIs:
+
+El primero, relacionado a cumplir el objetivo de lograr la reducción de la tasa de homicidio en un 10% (porcentaje de homicidios sobre las población total) de acuerdo al semestre anterior a analizar. En segundo lugar, la reducción de la tasa de homicidios en un 7% anual para víctimas que conducían o viajaban en moto. Por último, se propuso la reducción de la tasa de homicidios en un 10% anual de las víctimas masculinas. Estos dos últimos (moto y masculino) son dos factores altamente relacionados por su alto nivel de mortalidad a comparación de otros actores.
+
 ### Tecnologías utilizadas
 
 Para la realización del proyecto se utilizó Python, NumPy, Pandas, Matplotlib y Seaborn en un notebook de Google Colaboratory para desarrollar los procesos de Análisis Exploratorio de los Datos (EDA) y para la Extracción, Transformación y Carga de los mismos (ETL). La visualización de los análisis y resultados se realizó en un dashboard interactivo utilizando Power BI.
