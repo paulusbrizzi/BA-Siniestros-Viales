@@ -38,6 +38,12 @@ Por último se navegaron las variables relativas al desarrollo en el tiempo y se
 
 En tanto a geografía, pudimos ver que los siniestros siguen teniendo una concentración en el centro de la ciudad (Comuna 1) así como en las comunas lindantes al río Riachuelo. También conocimos que las Avenidas son el hecho más común para los siniestros.
 
+### Script Python en Power BI
+![](https://github.com/paulusbrizzi/BA-Siniestros-Viales/blob/main/img/geopandas_distribuciongeografica.png?raw=true)
+
+Se aplicó el siguiente gráfico en la presentación para facilitar la visualización de la distribución geográfica de todos los siniestros distribuidos en el Dataset.
+De la misma manera, podemos observar cómo la mayoría de estos se concentra en la Comuna 1, en el centro de la ciudad (región Este y Sur).
+
 ### Conclusiones
 
 Entre los años registrados en los datasets, 2016 a 2021, se registraron en total 695 siniestros viales, los cuales provocaron 716 víctimas fatales, de las cuales 544 fueron del sexo masculino (76.62%) y 166 del sexo femenino (23.38%). El grupo de edades de mayor riesgos fue entre los 25 y 45 años.
