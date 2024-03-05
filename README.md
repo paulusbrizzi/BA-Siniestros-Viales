@@ -44,19 +44,36 @@ En tanto a geografía, pudimos ver que los siniestros siguen teniendo una concen
 Se aplicó el siguiente gráfico en la presentación para facilitar la visualización de la distribución geográfica de todos los siniestros distribuidos en el Dataset.
 De la misma manera, podemos observar cómo la mayoría de estos se concentra en la Comuna 1, en el centro de la ciudad (región Este y Sur).
 
-### Conclusiones
+### KPIs
+![](https://github.com/paulusbrizzi/BA-Siniestros-Viales/blob/main/img/kpis.png?raw=true)
+Se desarrollaron 3 KPIs:
 
-Entre los años registrados en los datasets, 2016 a 2021, se registraron en total 695 siniestros viales, los cuales provocaron 716 víctimas fatales, de las cuales 544 fueron del sexo masculino (76.62%) y 166 del sexo femenino (23.38%). El grupo de edades de mayor riesgos fue entre los 25 y 45 años.
+1. Relacionado a cumplir el objetivo de lograr la reducción de la tasa de homicidio en un 10% (porcentaje de homicidios sobre las población total) de acuerdo al semestre anterior a analizar.
+2. La reducción de la tasa de homicidios en un 7% anual para víctimas que conducían o viajaban en moto.
+3. Se propuso la reducción de la tasa de homicidios en un 7% semestral de las víctimas peatones.
+
+Estos dos últimos (motos y peatones) son dos factores altamente relacionados por su alto nivel de mortalidad a comparación de otros actores.
+
+### Conclusiones
 
 Los meses de Noviembre y Diciembre resultaron con el mayor número de siniestros en el período analizado. En relación al tipo de movilidad de las víctimas fatales en accidentes, el mayor riesgo lo tienen los motociclistas con un 42.04%, seguidos de los peatones con un 37.15% y en tercer lugar los conductores de autos que representaron el 12.85%.
 
-Parte de las recomendaciones están enfocadas en aumentar el nivel de concientización en la población masculina de mediana edad, así como también reforzar las campañas durante los últimos meses del año que tienen mayor concentración de siniestros. También es sumamente importante concientizar sobre el riesgo que tienen los peatones por más que no estén usando un medio de transporte público o privado, y sobretodo a los motociclistas que son los principales afectados según la investigación.
+Gracias a la distribución Scatterplot del EDA, pudimos observar cómo existe una concentración de víctimas fatales entre las 4 y 10 horas de la mañana especialmente durante los fines de semana. Además, que la gran mayoría de estas víctimas en este punto eran jóvenes masculinos entre 20 y 40 años aproximadamente.
 
-### KPIs
+Alternativamente, podemos concebir una concentración sobre el centro de la ciudad (región Este del territorio), sobre la Comunas 1, seguido de todas las lindantes al río Riachuelo y parte de la región Sur, entre estas las comunas 4, 8 y 9.
 
-Se buscó desarrolar 3 KPIs:
-
-El primero, relacionado a cumplir el objetivo de lograr la reducción de la tasa de homicidio en un 10% (porcentaje de homicidios sobre las población total) de acuerdo al semestre anterior a analizar. En segundo lugar, la reducción de la tasa de homicidios en un 7% anual para víctimas que conducían o viajaban en moto. Por último, se propuso la reducción de la tasa de homicidios en un 10% anual de las víctimas masculinas. Estos dos últimos (moto y masculino) son dos factores altamente relacionados por su alto nivel de mortalidad a comparación de otros actores.
+### Resoluciones - Recomendaciones
+1. Enfocarse en los tipos de víctimas más vulnerables:
+   - Motociclistas: Implementar campañas de concienciación a jovenes motociclistas sobre la seguridad vial para este grupo, incluyendo el uso obligatorio de cascos y equipamiento adecuado.
+   - Peatones: Mejorar la infraestructura vial para la seguridad de peatones pensando en el adulto mayor, como la construcción de aceras, pasos de peatones y ciclovías.
+2. Reducir la velocidad en zonas de alto riesgo:
+   - Implementar en vias de alto riesgo en las avenidas medidas de control de velocidad como reductores de velocidad, radares y mayor presencia policial.
+3. Recopilación y análisis de datos:
+   - Implementar un sistema de recopilación de datos más robusto y preciso sobre accidentes de tránsito, incluyendo información sobre las causas, las víctimas y las condiciones ambientales.
+   - Utilizar el análisis de datos para identificar patrones y factores de riesgo en los accidentes de tránsito.
+4. Campañas de concienciación vial:
+   - Implementar campañas de concienciación vial dirigidas a toda la población, en especial a las comunas 1, 4, 9 y 8, incluyendo conductores, motociclistas, peatones y ciclistas.
+   - Enfatizar la importancia de la responsabilidad individual en la seguridad vial.
 
 ### Tecnologías utilizadas
 
